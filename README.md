@@ -2,7 +2,7 @@
 
 A CRM analytics and marketing-operations toolkit for a Clients & Markets team, built on **simulated** Salesforce-style data for a fictional firm. No real client, firm or staff data is used.
 
-**Start here:** `docs/executive_summary.md` (one page), then `dashboard/pipeline_presence_dashboard.html` (open in a browser) and `model/pipeline_presence_model.xlsx`.
+**Start here:** `docs/executive_summary.md` (one page), then **[View Presentation](https://samolart.github.io/pipeline-and-presence/)** (open in a browser) and `model/pipeline_presence_model.xlsx`.
 
 | Folder | Contents |
 |---|---|
