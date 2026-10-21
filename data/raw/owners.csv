@@ -1,0 +1,29 @@
+owner_id,owner_name,grade,los,active
+U001,Amina Otieno,Partner,Assurance,True
+U002,Brian Chebet,Partner,Tax & Legal,True
+U003,Cynthia Odhiambo,Partner,Deals,True
+U004,Daniel Wanjiru,Partner,Consulting,True
+U005,Esther Kiprop,Partner,Risk,True
+U006,Felix Barasa,Partner,Assurance,True
+U007,Grace Mwangi,Partner,Tax & Legal,True
+U008,Hassan Mutua,Director,Deals,True
+U009,Irene Nyambura,Director,Consulting,True
+U010,James Kamau,Director,Risk,True
+U011,Kevin Ochieng,Director,Assurance,True
+U012,Lucy Kariuki,Director,Tax & Legal,False
+U013,Mark Njoroge,Director,Deals,True
+U014,Nancy Wafula,Director,Consulting,True
+U015,Omar Juma,Senior Manager,Risk,True
+U016,Purity Achieng,Senior Manager,Assurance,True
+U017,Quincy Karanja,Senior Manager,Tax & Legal,True
+U018,Rose Langat,Senior Manager,Deals,True
+U019,Samuel Abdi,Senior Manager,Consulting,True
+U020,Tabitha Maina,Senior Manager,Risk,True
+U021,Victor Otieno,Senior Manager,Assurance,True
+U022,Winnie Chebet,Senior Manager,Tax & Legal,True
+U023,Yusuf Odhiambo,Senior Manager,Deals,True
+U024,Zainab Wanjiru,Senior Manager,Consulting,False
+U025,Peter Kiprop,Senior Manager,Risk,True
+U026,Mercy Barasa,Senior Manager,Assurance,True
+U027,Joseph Mwangi,Senior Manager,Tax & Legal,True
+U028,Faith Mutua,Senior Manager,Deals,True

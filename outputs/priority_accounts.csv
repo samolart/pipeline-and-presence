@@ -1,0 +1,41 @@
+account_id,account,industry,driver,open_opps,weighted_kes_m,days_since_touch
+A0001,Jambo Microfinance Limited,Financial Services,Amina Otieno,4,68.29475,55
+A0002,Umoja Capital Limited,Financial Services,Brian Chebet,2,7.272,69
+A0003,Nile Microfinance Limited,Financial Services,Cynthia Odhiambo,4,12.8949,53
+A0004,Pwani Asset Managers Limited,Financial Services,Daniel Wanjiru,4,11.1043,22
+A0005,Twiga Agri Limited,Agribusiness,Esther Kiprop,5,8.21025,1
+A0006,Kibo Microfinance Limited,Financial Services,Felix Barasa,2,22.3261,28
+A0007,Nile County Government,Public Sector & Development,Grace Mwangi,4,10.19965,80
+A0008,Tembo Capital Limited,Financial Services,Amina Otieno,5,10.6029,21
+A0009,Rift Cloud Limited,"Technology, Media & Telecom",Brian Chebet,2,4.27325,8
+A0010,Umoja Asset Managers Limited,Financial Services,Cynthia Odhiambo,4,77.5095,52
+A0011,Rift Capital Limited,Financial Services,Daniel Wanjiru,5,20.50555,7
+A0012,Safari Microfinance Limited,Financial Services,Esther Kiprop,5,13.684,53
+A0013,Kilimanjaro Capital Limited,Financial Services,Felix Barasa,4,26.52175,1
+A0014,Jua Beverages Limited,Consumer & Retail,Grace Mwangi,1,0.6075,1
+A0015,Baobab Energy Limited,Energy & Resources,Amina Otieno,2,4.0895,89
+A0016,Mara Foods Limited,Consumer & Retail,Brian Chebet,2,3.64905,83
+A0017,Twiga Power Limited,Energy & Resources,Cynthia Odhiambo,5,31.6397,25
+A0018,Lakeview Digital Limited,"Technology, Media & Telecom",Daniel Wanjiru,3,39.53275,62
+A0019,Zuri Media Limited,"Technology, Media & Telecom",Esther Kiprop,4,25.7507,39
+A0020,Baobab Infrastructure Limited,Real Estate & Infrastructure,Felix Barasa,2,7.3228,18
+A0021,Zuri Asset Managers Limited,Financial Services,Grace Mwangi,5,12.4145,143
+A0022,Savanna Sacco Limited,Financial Services,Amina Otieno,0,0.0,34
+A0023,Jambo Petroleum Limited,Energy & Resources,Brian Chebet,3,29.611,10
+A0024,Simba Commission,Public Sector & Development,Cynthia Odhiambo,1,6.7,5
+A0025,Lakeview Bank Limited,Financial Services,Daniel Wanjiru,7,49.1659,19
+A0026,Lakeview Development Fund,Public Sector & Development,Esther Kiprop,4,12.6637,37
+A0027,Safari Growers Limited,Agribusiness,Felix Barasa,5,3.8119,19
+A0028,Lakeview Hotels Limited,Consumer & Retail,Grace Mwangi,5,30.74575,26
+A0029,Acacia Mining Limited,Energy & Resources,Amina Otieno,5,101.2229,7
+A0030,Nile Networks Limited,"Technology, Media & Telecom",Brian Chebet,3,15.3378,6
+A0031,Acacia Hospital Limited,Unassigned,Cynthia Odhiambo,1,2.91325,2
+A0032,Jambo Tea Estates Limited,Agribusiness,Daniel Wanjiru,7,161.6568,16
+A0033,Twiga Horticulture Limited,Agribusiness,Esther Kiprop,5,42.512,37
+A0034,Harambee Capital Limited,Financial Services,Felix Barasa,3,7.75755,121
+A0035,Kilimanjaro Media Limited,"Technology, Media & Telecom",Grace Mwangi,3,40.66575,21
+A0036,Amani Authority,Public Sector & Development,Amina Otieno,7,45.67655,58
+A0037,Zuri Hotels Limited,Unassigned,Brian Chebet,0,0.0,4
+A0038,Pwani Media Limited,"Technology, Media & Telecom",Cynthia Odhiambo,4,94.2655,44
+A0039,Baobab Power Limited,Energy & Resources,Daniel Wanjiru,3,10.67625,96
+A0040,Amani Insurance Limited,Financial Services,Esther Kiprop,2,16.7685,2

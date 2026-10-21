@@ -1,0 +1,387 @@
+owner,opp_id,opp_name,stage,amount_kes,issue,action,priority
+Daniel Wanjiru,O00010,Jambo Tea Estates | Risk | advisory,Qualification,6036000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Daniel Wanjiru,O00010,Jambo Tea Estates | Risk | advisory,Qualification,6036000.0,Probability does not match stage,Correct probability to match stage,High
+(no owner),O00013,Nyota Petroleum | Consulting | compliance,Closed Lost,34156000.0,No owner assigned,Assign an owner,High
+Kevin Ochieng,O00015,Pwani Media | Consulting | due diligence,Proposal,10433000.0,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00019,Baobab Energy | Assurance | transformation,Closed Won,12321000.0,No owner assigned,Assign an owner,High
+Irene Nyambura,O00024,Umoja Foods | Consulting | support,Prospecting,11361000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Irene Nyambura,O00024,Umoja Foods | Consulting | support,Prospecting,11361000.0,No next step recorded,Record the next step,Normal
+Victor Otieno,O00025,Highland Foundation | Assurance | readiness,Negotiation,7705000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Brian Chebet,O00027,Rift Cloud | Risk | advisory,Proposal,3663000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Peter Kiprop,O00028,Pwani Geothermal | Deals | due diligence,Proposal,60815000.0,Probability does not match stage,Correct probability to match stage,Normal
+Zainab Wanjiru,O00032,Lakeview County Government | Tax & Legal | advisory,Proposal,6763000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00032,Lakeview County Government | Tax & Legal | advisory,Proposal,6763000.0,No next step recorded,Record the next step,Normal
+Felix Barasa,O00036,Baobab Infrastructure | Deals | compliance,Closed Lost,15525000.0,Lost without a reason,Add the lost reason,High
+Mercy Barasa,O00037,Zuri Infrastructure | Tax & Legal | advisory,Prospecting,1191000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Mercy Barasa,O00037,Zuri Infrastructure | Tax & Legal | advisory,Prospecting,1191000.0,Probability does not match stage,Correct probability to match stage,Normal
+Rose Langat,O00038,Twiga Power | Deals | due diligence,Qualification,16864000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Rose Langat,O00038,Twiga Power | Deals | due diligence,Qualification,16864000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Tabitha Maina,O00039,Lakeview Foods | Tax & Legal | annual,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+James Kamau,O00048,Savanna Capital | Tax & Legal | support,Proposal,6729000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Yusuf Odhiambo,O00053,Jambo Capital | Deals | readiness,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Irene Nyambura,O00054,Equator Petroleum | Deals | transformation,Proposal,13035000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Irene Nyambura,O00054,Equator Petroleum | Deals | transformation,Proposal,13035000.0,Probability does not match stage,Correct probability to match stage,Normal
+Hassan Mutua,O00055,Baobab Agri | Tax & Legal | annual,Negotiation,1880000.0,No next step recorded,Record the next step,Normal
+(no owner),O00056,Lakeview Development Fund | Assurance | compliance,Qualification,5656000.0,No owner assigned,Assign an owner,High
+(no owner),O00056,Lakeview Development Fund | Assurance | compliance,Qualification,5656000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+(no owner),O00056,Lakeview Development Fund | Assurance | compliance,Qualification,5656000.0,No next step recorded,Record the next step,High
+Amina Otieno,O00057,Baobab Energy | Tax & Legal | advisory,Qualification,2932000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Daniel Wanjiru,O00063,Jambo Tea Estates | Consulting | due diligence,Negotiation,137156000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Brian Chebet,O00069,Nile Networks | Consulting | advisory,Closed Lost,15906000.0,Lost without a reason,Add the lost reason,High
+Brian Chebet,O00070,Umoja Capital | Tax & Legal | compliance,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+Brian Chebet,O00070,Umoja Capital | Tax & Legal | compliance,Closed Lost,,Lost without a reason,Add the lost reason,High
+Zainab Wanjiru,O00076,Highland Networks | Assurance | review,Negotiation,3734000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00076,Highland Networks | Assurance | review,Negotiation,3734000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Grace Mwangi,O00077,Nile County Government | Deals | annual,Qualification,7619000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Zainab Wanjiru,O00088,Mara Asset Managers | Tax & Legal | due diligence,Qualification,5846000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00088,Mara Asset Managers | Tax & Legal | due diligence,Qualification,5846000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Esther Kiprop,O00089,Kilimanjaro Capital | Assurance | readiness,Closed Won,,Amount missing or zero,Add an estimated amount,High
+Peter Kiprop,O00090,Simba Sacco | Consulting | due diligence,Closed Lost,78775000.0,Lost without a reason,Add the lost reason,Normal
+Irene Nyambura,O00098,Mto Growers | Tax & Legal | advisory,Closed Lost,4430000.0,Lost without a reason,Add the lost reason,Normal
+Faith Mutua,O00101,Acacia Microfinance | Consulting | annual,Closed Lost,12468000.0,Lost without a reason,Add the lost reason,Normal
+Victor Otieno,O00102,Jambo Tea Estates | Consulting | transformation,Proposal,6433000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Cynthia Odhiambo,O00103,Acacia Microfinance | Consulting | support,Negotiation,19342000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Samuel Abdi,O00104,Kilimanjaro County Government | Assurance | compliance,Closed Lost,5563000.0,Lost without a reason,Add the lost reason,Normal
+Mercy Barasa,O00107,Amani Development Fund | Assurance | compliance,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Cynthia Odhiambo,O00114,Twiga Power | Assurance | review,Proposal,10767000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Tabitha Maina,O00119,Lakeview Foods | Consulting | readiness,Prospecting,29286000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Daniel Wanjiru,O00130,Kibo Commission | Tax & Legal | annual,Closed Lost,3771000.0,Lost without a reason,Add the lost reason,Normal
+Rose Langat,O00132,Baobab Infrastructure | Tax & Legal | readiness,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+Rose Langat,O00132,Baobab Infrastructure | Tax & Legal | readiness,Closed Lost,,Lost without a reason,Add the lost reason,High
+(no owner),O00133,Acacia Media | Tax & Legal | advisory,Closed Lost,4945000.0,No owner assigned,Assign an owner,High
+Mercy Barasa,O00134,Zuri Infrastructure | Deals | support,Closed Lost,28588000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00135,Twiga Agri | Tax & Legal | transformation,Closed Lost,4806000.0,Lost without a reason,Add the lost reason,High
+Cynthia Odhiambo,O00141,Kilimanjaro County Government | Deals | support,Qualification,,Amount missing or zero,Add an estimated amount,Normal
+Omar Juma,O00142,Mto Cloud | Deals | transformation,Negotiation,17988000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Purity Achieng,O00153,Amani Petroleum | Tax & Legal | due diligence,Qualification,10881000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Amina Otieno,O00154,Equator Bank | Tax & Legal | advisory,Closed Lost,3225000.0,Lost without a reason,Add the lost reason,Normal
+Mark Njoroge,O00157,Nile Beverages | Consulting | due diligence,Proposal,33659000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Faith Mutua,O00158,Umoja Retail | Deals | review,Closed Lost,22643000.0,Lost without a reason,Add the lost reason,Normal
+Peter Kiprop,O00159,Nile Insurance | Tax & Legal | advisory,Proposal,3068000.0,No next step recorded,Record the next step,Normal
+Amina Otieno,O00161,Tembo Housing | Deals | review,Qualification,8986000.0,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00165,Zuri Hospital | Assurance | due diligence,Negotiation,15705000.0,No owner assigned,Assign an owner,High
+(no owner),O00165,Zuri Hospital | Assurance | due diligence,Negotiation,15705000.0,Probability does not match stage,Correct probability to match stage,Normal
+Mark Njoroge,O00167,Kilimanjaro Media | Consulting | due diligence,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,High
+Lucy Kariuki,O00169,Jambo Petroleum | Consulting | due diligence,Proposal,9585000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00170,Equator Digital | Consulting | advisory,Prospecting,15195000.0,Owner has left or is inactive,Reassign: owner has left,High
+Peter Kiprop,O00173,Tembo Microfinance | Deals | compliance,Qualification,32284000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Peter Kiprop,O00173,Tembo Microfinance | Deals | compliance,Qualification,32284000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Quincy Karanja,O00175,Pwani Asset Managers | Assurance | review,Prospecting,35237000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Nancy Wafula,O00181,Lakeview Bank | Tax & Legal | compliance,Qualification,,Amount missing or zero,Add an estimated amount,High
+Nancy Wafula,O00181,Lakeview Bank | Tax & Legal | compliance,Qualification,,No activity for more than 60 days,Log a recent activity or confirm status,High
+Grace Mwangi,O00186,Twiga Horticulture | Tax & Legal | support,Closed Won,0.0,Amount missing or zero,Add an estimated amount,High
+Kevin Ochieng,O00189,Jambo Dairy | Deals | transformation,Prospecting,,Amount missing or zero,Add an estimated amount,Normal
+Mercy Barasa,O00191,Nile Networks | Consulting | compliance,Closed Won,,Amount missing or zero,Add an estimated amount,High
+Nancy Wafula,O00192,Zuri Supermarkets | Consulting | support,Negotiation,,Amount missing or zero,Add an estimated amount,Normal
+Yusuf Odhiambo,O00194,Safari Digital | Deals | advisory,Prospecting,27140000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Daniel Wanjiru,O00203,Kibo Commission | Tax & Legal | transformation,Qualification,35486000.0,No next step recorded,Record the next step,Normal
+Nancy Wafula,O00204,Acacia Mining | Tax & Legal | review,Proposal,6279000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Nancy Wafula,O00204,Acacia Mining | Tax & Legal | review,Proposal,6279000.0,No next step recorded,Record the next step,High
+Purity Achieng,O00205,Kilimanjaro Growers | Tax & Legal | support,Closed Lost,15368000.0,Lost without a reason,Add the lost reason,Normal
+Amina Otieno,O00207,Kibo Pharma | Assurance | compliance,Closed Lost,5588000.0,Lost without a reason,Add the lost reason,Normal
+James Kamau,O00214,Pwani Geothermal | Tax & Legal | advisory,Proposal,4419000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Grace Mwangi,O00220,Nile Networks | Deals | annual,Qualification,,Amount missing or zero,Add an estimated amount,High
+Omar Juma,O00226,Mara Beverages | Deals | annual,Qualification,51027000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Kevin Ochieng,O00227,Harambee Authority | Assurance | compliance,Proposal,10877000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Lucy Kariuki,O00230,Nile Retail | Assurance | compliance,Qualification,11301000.0,Owner has left or is inactive,Reassign: owner has left,High
+Esther Kiprop,O00231,Zuri Media | Consulting | advisory,Qualification,61195000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Joseph Mwangi,O00233,Harambee Supermarkets | Consulting | review,Closed Lost,5464000.0,Lost without a reason,Add the lost reason,Normal
+Yusuf Odhiambo,O00236,Harambee Sacco | Consulting | compliance,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Grace Mwangi,O00243,Zuri Asset Managers | Tax & Legal | support,Negotiation,,Amount missing or zero,Add an estimated amount,High
+Grace Mwangi,O00243,Zuri Asset Managers | Tax & Legal | support,Negotiation,,Probability does not match stage,Correct probability to match stage,High
+James Kamau,O00244,Pwani Media | Deals | readiness,Negotiation,114858000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Samuel Abdi,O00245,Highland Development Fund | Tax & Legal | compliance,Qualification,7988000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Winnie Chebet,O00247,Acacia Bank | Deals | readiness,Qualification,22367000.0,No next step recorded,Record the next step,Normal
+Brian Chebet,O00248,Umoja Insurance | Assurance | readiness,Qualification,31558000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Lucy Kariuki,O00250,Nile Supermarkets | Tax & Legal | annual,Prospecting,3877000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00250,Nile Supermarkets | Tax & Legal | annual,Prospecting,3877000.0,Probability does not match stage,Correct probability to match stage,Normal
+Rose Langat,O00253,Mto Retail | Consulting | readiness,Closed Lost,52083000.0,Lost without a reason,Add the lost reason,Normal
+Rose Langat,O00258,Simba Supermarkets | Tax & Legal | review,Proposal,9697000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Faith Mutua,O00259,Simba County Government | Tax & Legal | readiness,Closed Lost,4628000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00260,Twiga Horticulture | Deals | advisory,Proposal,,Amount missing or zero,Add an estimated amount,High
+Felix Barasa,O00262,Nyota Foods | Tax & Legal | advisory,Qualification,78982000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Felix Barasa,O00262,Nyota Foods | Tax & Legal | advisory,Qualification,78982000.0,Probability does not match stage,Correct probability to match stage,Normal
+Zainab Wanjiru,O00264,Zuri Media | Assurance | advisory,Qualification,12753000.0,Owner has left or is inactive,Reassign: owner has left,High
+Cynthia Odhiambo,O00266,Twiga Commission | Assurance | support,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+Amina Otieno,O00267,Mto Supermarkets | Tax & Legal | advisory,Negotiation,15843000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Lucy Kariuki,O00271,Mara Hotels | Consulting | transformation,Proposal,41332000.0,Owner has left or is inactive,Reassign: owner has left,High
+Faith Mutua,O00274,Twiga Asset Managers | Assurance | readiness,Qualification,18465000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+(no owner),O00279,Baobab Power | Assurance | transformation,Closed Lost,15805000.0,No owner assigned,Assign an owner,High
+Samuel Abdi,O00284,Equator Sacco | Tax & Legal | review,Closed Lost,10338000.0,Lost without a reason,Add the lost reason,Normal
+Cynthia Odhiambo,O00286,Pwani Mining | Risk | advisory,Negotiation,9406000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Felix Barasa,O00287,Baobab Infrastructure | Deals | compliance,Qualification,7532000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Zainab Wanjiru,O00293,Highland Networks | Deals | support,Qualification,16352000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00293,Highland Networks | Deals | support,Qualification,16352000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Faith Mutua,O00297,Jambo Asset Managers | Assurance | annual,Closed Lost,8531000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00304,Twiga Horticulture | Tax & Legal | readiness,Qualification,,Amount missing or zero,Add an estimated amount,High
+Hassan Mutua,O00308,Nile Sacco | Deals | due diligence,Qualification,,Amount missing or zero,Add an estimated amount,Normal
+Hassan Mutua,O00308,Nile Sacco | Deals | due diligence,Qualification,,Open with close date in the past,Update the close date or close the opportunity,High
+Hassan Mutua,O00308,Nile Sacco | Deals | due diligence,Qualification,,No next step recorded,Record the next step,Normal
+Cynthia Odhiambo,O00309,Amani Tea Estates | Assurance | annual,Closed Lost,7767000.0,Lost without a reason,Add the lost reason,Normal
+Brian Chebet,O00312,Zuri Media | Assurance | transformation,Proposal,10637000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Felix Barasa,O00315,Baobab Infrastructure | Assurance | review,Closed Lost,4671000.0,Lost without a reason,Add the lost reason,High
+Esther Kiprop,O00319,Twiga Horticulture | Deals | due diligence,Proposal,78179000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Esther Kiprop,O00319,Twiga Horticulture | Deals | due diligence,Proposal,78179000.0,No next step recorded,Record the next step,High
+Brian Chebet,O00325,Tembo Authority | Tax & Legal | due diligence,Negotiation,2302000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Quincy Karanja,O00331,Rift Bank | Consulting | readiness,Closed Lost,24676000.0,Lost without a reason,Add the lost reason,Normal
+Daniel Wanjiru,O00333,Lakeview Agri | Assurance | readiness,Proposal,3225000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Samuel Abdi,O00337,Safari Growers | Deals | compliance,Qualification,,Amount missing or zero,Add an estimated amount,High
+Joseph Mwangi,O00338,Harambee Capital | Assurance | compliance,Prospecting,11660000.0,No next step recorded,Record the next step,High
+Joseph Mwangi,O00339,Amani Growers | Consulting | annual,Prospecting,24321000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Felix Barasa,O00340,Harambee Capital | Tax & Legal | support,Prospecting,11878000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Felix Barasa,O00340,Harambee Capital | Tax & Legal | support,Prospecting,11878000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Daniel Wanjiru,O00341,Lakeview Bank | Consulting | review,Negotiation,35381000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Winnie Chebet,O00342,Amani Digital | Tax & Legal | annual,Prospecting,19946000.0,No next step recorded,Record the next step,Normal
+Daniel Wanjiru,O00350,Lakeview Bank | Deals | advisory,Proposal,27865000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Omar Juma,O00357,Harambee Cloud | Tax & Legal | transformation,Closed Lost,16433000.0,Lost without a reason,Add the lost reason,Normal
+Grace Mwangi,O00361,Kilimanjaro County Government | Tax & Legal | annual,Qualification,10867000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Grace Mwangi,O00361,Kilimanjaro County Government | Tax & Legal | annual,Qualification,10867000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Grace Mwangi,O00361,Kilimanjaro County Government | Tax & Legal | annual,Qualification,10867000.0,No next step recorded,Record the next step,Normal
+Zainab Wanjiru,O00362,Kilimanjaro Telecom | Risk | transformation,Prospecting,7204000.0,Owner has left or is inactive,Reassign: owner has left,High
+Felix Barasa,O00363,Kilimanjaro Capital | Assurance | advisory,Proposal,5672000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Zainab Wanjiru,O00364,Amani Authority | Consulting | support,Negotiation,50091000.0,Owner has left or is inactive,Reassign: owner has left,High
+(no owner),O00366,Zuri Hotels | Risk | support,Closed Lost,6398000.0,No owner assigned,Assign an owner,High
+(no owner),O00366,Zuri Hotels | Risk | support,Closed Lost,6398000.0,Lost without a reason,Add the lost reason,High
+Lucy Kariuki,O00367,Nyota Petroleum | Assurance | advisory,Qualification,869000.0,Owner has left or is inactive,Reassign: owner has left,High
+Omar Juma,O00375,Simba Hospital | Consulting | support,Prospecting,20678000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Felix Barasa,O00378,Baobab Infrastructure | Deals | support,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+James Kamau,O00379,Amani Mining | Consulting | due diligence,Closed Lost,51276000.0,Lost without a reason,Add the lost reason,Normal
+Samuel Abdi,O00384,Mara Petroleum | Deals | transformation,Proposal,25697000.0,No next step recorded,Record the next step,Normal
+Brian Chebet,O00385,Umoja Insurance | Assurance | transformation,Prospecting,33423000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Kevin Ochieng,O00387,Harambee Authority | Risk | compliance,Closed Lost,2983000.0,Lost without a reason,Add the lost reason,Normal
+Amina Otieno,O00391,Jambo Microfinance | Consulting | advisory,Qualification,18576000.0,Probability does not match stage,Correct probability to match stage,High
+Lucy Kariuki,O00398,Zuri Power | Assurance | transformation,Prospecting,6838000.0,Owner has left or is inactive,Reassign: owner has left,High
+Peter Kiprop,O00400,Rift Capital | Consulting | due diligence,Negotiation,0.0,Amount missing or zero,Add an estimated amount,High
+Peter Kiprop,O00400,Rift Capital | Consulting | due diligence,Negotiation,0.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Quincy Karanja,O00402,Baobab Logistics | Assurance | support,Qualification,23133000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Quincy Karanja,O00404,Baobab Logistics | Consulting | due diligence,Negotiation,24788000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Irene Nyambura,O00407,Rift Insurance | Tax & Legal | transformation,Closed Lost,14412000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00409,Amani Insurance | Assurance | transformation,Closed Lost,6262000.0,Lost without a reason,Add the lost reason,High
+Rose Langat,O00415,Tembo Tea Estates | Consulting | advisory,Qualification,40656000.0,Probability does not match stage,Correct probability to match stage,Normal
+Winnie Chebet,O00416,Nile Supermarkets | Consulting | support,Qualification,21225000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Mercy Barasa,O00419,Pwani Capital | Tax & Legal | annual,Negotiation,,Amount missing or zero,Add an estimated amount,Normal
+Mercy Barasa,O00419,Pwani Capital | Tax & Legal | annual,Negotiation,,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00422,Jambo Agri | Assurance | due diligence,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+(no owner),O00422,Jambo Agri | Assurance | due diligence,Closed Won,,No owner assigned,Assign an owner,High
+Winnie Chebet,O00426,Amani Digital | Tax & Legal | compliance,Qualification,8567000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Amina Otieno,O00427,Jambo Microfinance | Deals | advisory,Closed Lost,21792000.0,Lost without a reason,Add the lost reason,High
+Lucy Kariuki,O00428,Amani Authority | Assurance | annual,Qualification,5182000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00428,Amani Authority | Assurance | annual,Qualification,5182000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Samuel Abdi,O00432,Pwani Asset Managers | Consulting | compliance,Closed Lost,2621000.0,Lost without a reason,Add the lost reason,High
+Felix Barasa,O00433,Safari Pharma | Tax & Legal | review,Qualification,6971000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Amina Otieno,O00434,Amani Authority | Assurance | compliance,Negotiation,0.0,Amount missing or zero,Add an estimated amount,High
+Amina Otieno,O00434,Amani Authority | Assurance | compliance,Negotiation,0.0,Open with close date in the past,Update the close date or close the opportunity,High
+Amina Otieno,O00434,Amani Authority | Assurance | compliance,Negotiation,0.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Amina Otieno,O00434,Amani Authority | Assurance | compliance,Negotiation,0.0,Probability does not match stage,Correct probability to match stage,High
+Grace Mwangi,O00435,Nile Networks | Assurance | support,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+Felix Barasa,O00439,Highland Foods | Deals | due diligence,Prospecting,,Amount missing or zero,Add an estimated amount,Normal
+Felix Barasa,O00439,Highland Foods | Deals | due diligence,Prospecting,,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Irene Nyambura,O00444,Mto Networks | Assurance | due diligence,Prospecting,3341000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Irene Nyambura,O00444,Mto Networks | Assurance | due diligence,Prospecting,3341000.0,Probability does not match stage,Correct probability to match stage,Normal
+Irene Nyambura,O00444,Mto Networks | Assurance | due diligence,Prospecting,3341000.0,No next step recorded,Record the next step,Normal
+Lucy Kariuki,O00446,Jua County Government | Assurance | transformation,Prospecting,28945000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00446,Jua County Government | Assurance | transformation,Prospecting,28945000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Lucy Kariuki,O00446,Jua County Government | Assurance | transformation,Prospecting,28945000.0,No next step recorded,Record the next step,Normal
+Joseph Mwangi,O00447,Rift Health Group | Assurance | compliance,Prospecting,0.0,Amount missing or zero,Add an estimated amount,Normal
+Mercy Barasa,O00449,Highland Telecom | Assurance | readiness,Prospecting,26889000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Lucy Kariuki,O00452,Pwani Digital | Consulting | support,Prospecting,12084000.0,Owner has left or is inactive,Reassign: owner has left,High
+(no owner),O00455,Amani Insurance | Consulting | annual,Closed Lost,13077000.0,No owner assigned,Assign an owner,High
+Peter Kiprop,O00457,Baobab Energy | Tax & Legal | annual,Closed Lost,2714000.0,Lost without a reason,Add the lost reason,High
+Grace Mwangi,O00465,Zuri Asset Managers | Tax & Legal | review,Proposal,3584000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Lucy Kariuki,O00467,Pwani Digital | Deals | advisory,Negotiation,10700000.0,Owner has left or is inactive,Reassign: owner has left,High
+Winnie Chebet,O00469,Amani Digital | Risk | transformation,Proposal,6289000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Mark Njoroge,O00475,Safari Hotels | Assurance | transformation,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,Normal
+Samuel Abdi,O00476,Zuri Supermarkets | Consulting | support,Negotiation,25482000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Tabitha Maina,O00483,Jua Foundation | Assurance | support,Closed Lost,7560000.0,Lost without a reason,Add the lost reason,Normal
+Winnie Chebet,O00487,Mara Commission | Tax & Legal | compliance,Closed Lost,40541000.0,Lost without a reason,Add the lost reason,Normal
+Amina Otieno,O00490,Acacia Media | Consulting | transformation,Prospecting,48158000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Esther Kiprop,O00492,Twiga Agri | Deals | compliance,Qualification,8636000.0,No next step recorded,Record the next step,High
+Lucy Kariuki,O00494,Acacia Capital | Assurance | compliance,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+James Kamau,O00495,Acacia Insurance | Assurance | advisory,Qualification,,Amount missing or zero,Add an estimated amount,Normal
+James Kamau,O00495,Acacia Insurance | Assurance | advisory,Qualification,,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Hassan Mutua,O00497,Mara Networks | Consulting | compliance,Closed Lost,15049000.0,Lost without a reason,Add the lost reason,Normal
+Winnie Chebet,O00499,Amani Digital | Deals | compliance,Negotiation,18871000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+(no owner),O00504,Pwani Media | Risk | annual,Closed Won,14553000.0,No owner assigned,Assign an owner,High
+Zainab Wanjiru,O00505,Lakeview County Government | Deals | review,Negotiation,18123000.0,Owner has left or is inactive,Reassign: owner has left,High
+James Kamau,O00511,Savanna Capital | Tax & Legal | advisory,Qualification,7197000.0,Probability does not match stage,Correct probability to match stage,Normal
+James Kamau,O00514,Mto Growers | Tax & Legal | readiness,Closed Lost,17480000.0,Lost without a reason,Add the lost reason,Normal
+Grace Mwangi,O00523,Equator Petroleum | Consulting | due diligence,Prospecting,115531000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Brian Chebet,O00525,Zuri Hotels | Risk | transformation,Closed Lost,1344000.0,Lost without a reason,Add the lost reason,High
+Winnie Chebet,O00526,Pwani Construction | Deals | annual,Negotiation,152041000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Irene Nyambura,O00527,Kibo Digital | Tax & Legal | readiness,Closed Lost,5651000.0,Lost without a reason,Add the lost reason,Normal
+Grace Mwangi,O00532,Zuri Supermarkets | Risk | advisory,Closed Lost,4972000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00534,Twiga Agri | Assurance | compliance,Qualification,11189000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Lucy Kariuki,O00538,Nile Retail | Assurance | annual,Negotiation,12194000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00538,Nile Retail | Assurance | annual,Negotiation,12194000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+(no owner),O00540,Kilimanjaro Media | Tax & Legal | advisory,Negotiation,4625000.0,No owner assigned,Assign an owner,High
+(no owner),O00540,Kilimanjaro Media | Tax & Legal | advisory,Negotiation,4625000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+(no owner),O00540,Kilimanjaro Media | Tax & Legal | advisory,Negotiation,4625000.0,Probability does not match stage,Correct probability to match stage,High
+Felix Barasa,O00542,Jambo Diagnostics | Consulting | due diligence,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,Normal
+(no owner),O00543,Kilimanjaro Media | Tax & Legal | review,Closed Lost,12045000.0,No owner assigned,Assign an owner,High
+(no owner),O00543,Kilimanjaro Media | Tax & Legal | review,Closed Lost,12045000.0,Lost without a reason,Add the lost reason,High
+Cynthia Odhiambo,O00544,Jambo Asset Managers | Consulting | readiness,Negotiation,19741000.0,No next step recorded,Record the next step,Normal
+Winnie Chebet,O00545,Zuri Dairy | Tax & Legal | compliance,Closed Lost,12063000.0,Lost without a reason,Add the lost reason,Normal
+Lucy Kariuki,O00547,Jambo Microfinance | Consulting | advisory,Negotiation,74097000.0,Owner has left or is inactive,Reassign: owner has left,High
+(no owner),O00550,Amani Foundation | Consulting | readiness,Qualification,8940000.0,No owner assigned,Assign an owner,High
+Felix Barasa,O00551,Zuri Asset Managers | Tax & Legal | readiness,Negotiation,7975000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Felix Barasa,O00551,Zuri Asset Managers | Tax & Legal | readiness,Negotiation,7975000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+(no owner),O00552,Acacia Authority | Assurance | annual,Closed Won,27112000.0,No owner assigned,Assign an owner,High
+Omar Juma,O00555,Jambo Tea Estates | Tax & Legal | readiness,Closed Lost,22411000.0,Lost without a reason,Add the lost reason,High
+Amina Otieno,O00563,Pwani Microfinance | Deals | readiness,Prospecting,11049000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Brian Chebet,O00567,Nile Supermarkets | Tax & Legal | review,Closed Lost,7217000.0,Lost without a reason,Add the lost reason,Normal
+Mercy Barasa,O00568,Zuri Infrastructure | Risk | review,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+Zainab Wanjiru,O00570,Tembo Capital | Assurance | advisory,Qualification,0.0,Amount missing or zero,Add an estimated amount,High
+Zainab Wanjiru,O00570,Tembo Capital | Assurance | advisory,Qualification,0.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00570,Tembo Capital | Assurance | advisory,Qualification,0.0,Open with close date in the past,Update the close date or close the opportunity,High
+Cynthia Odhiambo,O00572,Acacia Hospital | Assurance | readiness,Closed Won,0.0,Amount missing or zero,Add an estimated amount,High
+(no owner),O00579,Tembo Capital | Consulting | advisory,Closed Lost,28568000.0,No owner assigned,Assign an owner,High
+Irene Nyambura,O00585,Acacia Mining | Tax & Legal | due diligence,Prospecting,,Amount missing or zero,Add an estimated amount,High
+Purity Achieng,O00587,Jambo Construction | Consulting | due diligence,Prospecting,4559000.0,Probability does not match stage,Correct probability to match stage,Normal
+Daniel Wanjiru,O00590,Pwani Asset Managers | Assurance | annual,Closed Lost,2859000.0,Lost without a reason,Add the lost reason,High
+Lucy Kariuki,O00592,Pwani Digital | Assurance | compliance,Prospecting,29626000.0,Owner has left or is inactive,Reassign: owner has left,High
+Peter Kiprop,O00595,Lakeview Agri | Consulting | due diligence,Closed Lost,64994000.0,Lost without a reason,Add the lost reason,Normal
+Nancy Wafula,O00596,Baobab Capital | Tax & Legal | compliance,Prospecting,5199000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Rose Langat,O00601,Kilimanjaro Media | Tax & Legal | advisory,Proposal,0.0,Amount missing or zero,Add an estimated amount,High
+Faith Mutua,O00604,Equator Asset Managers | Assurance | advisory,Negotiation,35742000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Victor Otieno,O00607,Kilimanjaro Hotels | Assurance | review,Qualification,9368000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Purity Achieng,O00608,Jambo Dairy | Risk | annual,Negotiation,2385000.0,No next step recorded,Record the next step,Normal
+Lucy Kariuki,O00616,Nile Retail | Tax & Legal | transformation,Prospecting,4359000.0,Owner has left or is inactive,Reassign: owner has left,High
+Mark Njoroge,O00618,Kibo Supermarkets | Tax & Legal | compliance,Proposal,30289000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Zainab Wanjiru,O00619,Kilimanjaro Capital | Assurance | support,Proposal,20612000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00619,Kilimanjaro Capital | Assurance | support,Proposal,20612000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Zainab Wanjiru,O00619,Kilimanjaro Capital | Assurance | support,Proposal,20612000.0,No next step recorded,Record the next step,High
+Cynthia Odhiambo,O00622,Nile Microfinance | Risk | transformation,Prospecting,3959000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Joseph Mwangi,O00625,Jambo Microfinance | Tax & Legal | support,Closed Lost,3779000.0,Lost without a reason,Add the lost reason,High
+Tabitha Maina,O00631,Rift Retail | Consulting | review,Qualification,15355000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Daniel Wanjiru,O00639,Baobab Power | Tax & Legal | advisory,Qualification,0.0,Amount missing or zero,Add an estimated amount,High
+Esther Kiprop,O00640,Lakeview Development Fund | Tax & Legal | due diligence,Negotiation,2665000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Lucy Kariuki,O00644,Zuri Power | Consulting | support,Proposal,4897000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00644,Zuri Power | Consulting | support,Proposal,4897000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Esther Kiprop,O00650,Twiga Agri | Assurance | transformation,Qualification,6324000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Grace Mwangi,O00654,Lakeview Hotels | Consulting | annual,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,High
+(no owner),O00655,Savanna Capital | Tax & Legal | advisory,Closed Lost,985000.0,No owner assigned,Assign an owner,High
+(no owner),O00655,Savanna Capital | Tax & Legal | advisory,Closed Lost,985000.0,Lost without a reason,Add the lost reason,Normal
+Zainab Wanjiru,O00659,Mara Foods | Consulting | due diligence,Qualification,8893000.0,Owner has left or is inactive,Reassign: owner has left,High
+Joseph Mwangi,O00660,Acacia Mining | Consulting | review,Prospecting,7878000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Yusuf Odhiambo,O00664,Acacia Microfinance | Tax & Legal | due diligence,Proposal,9495000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Zainab Wanjiru,O00666,Lakeview County Government | Assurance | annual,Proposal,5028000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00666,Lakeview County Government | Assurance | annual,Proposal,5028000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Purity Achieng,O00668,Highland Hospital | Assurance | advisory,Closed Lost,19387000.0,Lost without a reason,Add the lost reason,Normal
+Lucy Kariuki,O00673,Simba Hotels | Tax & Legal | due diligence,Proposal,5252000.0,Owner has left or is inactive,Reassign: owner has left,High
+Daniel Wanjiru,O00678,Savanna Development Fund | Deals | review,Negotiation,15191000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Hassan Mutua,O00681,Baobab Agri | Tax & Legal | transformation,Closed Lost,2056000.0,Lost without a reason,Add the lost reason,Normal
+Grace Mwangi,O00683,Zuri Infrastructure | Consulting | compliance,Proposal,17117000.0,Probability does not match stage,Correct probability to match stage,Normal
+Peter Kiprop,O00687,Nile County Government | Assurance | annual,Qualification,14366000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Peter Kiprop,O00687,Nile County Government | Assurance | annual,Qualification,14366000.0,No next step recorded,Record the next step,High
+Peter Kiprop,O00690,Nyota Telecom | Tax & Legal | compliance,Prospecting,39572000.0,No next step recorded,Record the next step,Normal
+(no owner),O00692,Lakeview Hotels | Assurance | advisory,Qualification,4146000.0,No owner assigned,Assign an owner,High
+(no owner),O00692,Lakeview Hotels | Assurance | advisory,Qualification,4146000.0,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00692,Lakeview Hotels | Assurance | advisory,Qualification,4146000.0,Probability does not match stage,Correct probability to match stage,High
+Grace Mwangi,O00693,Zuri Telecom | Consulting | review,Closed Lost,10723000.0,Lost without a reason,Add the lost reason,Normal
+Rose Langat,O00697,Tembo Tea Estates | Consulting | compliance,Qualification,8888000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Joseph Mwangi,O00699,Mara Bank | Deals | transformation,Proposal,1836000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Felix Barasa,O00706,Kibo Microfinance | Tax & Legal | due diligence,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+Felix Barasa,O00707,Jambo Diagnostics | Risk | readiness,Negotiation,10337000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Nancy Wafula,O00713,Jua County Government | Assurance | readiness,Proposal,6503000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Nancy Wafula,O00713,Jua County Government | Assurance | readiness,Proposal,6503000.0,No next step recorded,Record the next step,Normal
+Quincy Karanja,O00714,Pwani Mining | Deals | review,Proposal,22576000.0,Probability does not match stage,Correct probability to match stage,Normal
+Quincy Karanja,O00720,Lakeview Sacco | Consulting | readiness,Closed Lost,21497000.0,Lost without a reason,Add the lost reason,Normal
+Daniel Wanjiru,O00724,Lakeview Bank | Deals | support,Closed Lost,27419000.0,Lost without a reason,Add the lost reason,High
+Amina Otieno,O00728,Amani Petroleum | Assurance | due diligence,Proposal,17697000.0,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00729,Pwani Asset Managers | Consulting | due diligence,Proposal,10507000.0,No owner assigned,Assign an owner,High
+(no owner),O00729,Pwani Asset Managers | Consulting | due diligence,Proposal,10507000.0,Probability does not match stage,Correct probability to match stage,High
+Nancy Wafula,O00732,Highland Development Fund | Consulting | compliance,Negotiation,,Amount missing or zero,Add an estimated amount,Normal
+Purity Achieng,O00735,Zuri Foundation | Tax & Legal | transformation,Negotiation,2760000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Kevin Ochieng,O00737,Harambee Authority | Consulting | readiness,Prospecting,,Amount missing or zero,Add an estimated amount,Normal
+Kevin Ochieng,O00737,Harambee Authority | Consulting | readiness,Prospecting,,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Cynthia Odhiambo,O00742,Nile Microfinance | Assurance | review,Closed Lost,,Amount missing or zero,Add an estimated amount,High
+(no owner),O00743,Safari Growers | Tax & Legal | transformation,Prospecting,4157000.0,No owner assigned,Assign an owner,High
+Grace Mwangi,O00748,Lakeview Hotels | Deals | readiness,Prospecting,,Amount missing or zero,Add an estimated amount,High
+Mark Njoroge,O00749,Pwani Sacco | Assurance | review,Closed Lost,13328000.0,Lost without a reason,Add the lost reason,Normal
+Brian Chebet,O00754,Equator Bank | Risk | advisory,Negotiation,,Amount missing or zero,Add an estimated amount,Normal
+Brian Chebet,O00754,Equator Bank | Risk | advisory,Negotiation,,Open with close date in the past,Update the close date or close the opportunity,High
+(no owner),O00756,Kilimanjaro Telecom | Risk | support,Closed Won,10619000.0,No owner assigned,Assign an owner,High
+Kevin Ochieng,O00759,Nile Sacco | Risk | review,Qualification,15357000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Mark Njoroge,O00760,Zuri Authority | Consulting | compliance,Qualification,15271000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Mark Njoroge,O00760,Zuri Authority | Consulting | compliance,Qualification,15271000.0,No next step recorded,Record the next step,Normal
+Brian Chebet,O00761,Umoja Capital | Tax & Legal | annual,Proposal,11706000.0,No next step recorded,Record the next step,High
+Daniel Wanjiru,O00763,Rift Capital | Consulting | transformation,Prospecting,27083000.0,Probability does not match stage,Correct probability to match stage,High
+Lucy Kariuki,O00770,Acacia Mining | Deals | readiness,Proposal,190736000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00771,Amani Petroleum | Risk | readiness,Prospecting,20893000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00771,Amani Petroleum | Risk | readiness,Prospecting,20893000.0,No next step recorded,Record the next step,Normal
+Felix Barasa,O00772,Safari Growers | Tax & Legal | readiness,Qualification,5960000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Zainab Wanjiru,O00779,Tembo Microfinance | Assurance | annual,Proposal,2671000.0,Owner has left or is inactive,Reassign: owner has left,High
+Brian Chebet,O00783,Mara Foods | Assurance | compliance,Closed Won,0.0,Amount missing or zero,Add an estimated amount,High
+Kevin Ochieng,O00784,Umoja Development Fund | Assurance | readiness,Qualification,26912000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Esther Kiprop,O00787,Nile Beverages | Deals | compliance,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+Mark Njoroge,O00791,Pwani Sacco | Assurance | transformation,Closed Lost,,Amount missing or zero,Add an estimated amount,Normal
+(no owner),O00794,Safari Housing | Assurance | support,Closed Won,0.0,Amount missing or zero,Add an estimated amount,Normal
+(no owner),O00794,Safari Housing | Assurance | support,Closed Won,0.0,No owner assigned,Assign an owner,High
+James Kamau,O00799,Acacia Bank | Consulting | due diligence,Prospecting,,Amount missing or zero,Add an estimated amount,Normal
+James Kamau,O00799,Acacia Bank | Consulting | due diligence,Prospecting,,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Daniel Wanjiru,O00801,Jua Development Fund | Assurance | compliance,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,Normal
+(no owner),O00802,Nile Networks | Deals | compliance,Prospecting,149543000.0,No owner assigned,Assign an owner,High
+Faith Mutua,O00805,Zuri Petroleum | Assurance | review,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,Normal
+Cynthia Odhiambo,O00809,Simba Commission | Deals | readiness,Closed Lost,2288000.0,Lost without a reason,Add the lost reason,High
+Esther Kiprop,O00810,Twiga Agri | Deals | review,Proposal,0.0,Amount missing or zero,Add an estimated amount,High
+Zainab Wanjiru,O00813,Nile Microfinance | Consulting | annual,Qualification,,Amount missing or zero,Add an estimated amount,High
+Zainab Wanjiru,O00813,Nile Microfinance | Consulting | annual,Qualification,,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00817,Pwani Construction | Tax & Legal | support,Proposal,2808000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00817,Pwani Construction | Tax & Legal | support,Proposal,2808000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Lucy Kariuki,O00823,Nile Retail | Risk | readiness,Proposal,50591000.0,Owner has left or is inactive,Reassign: owner has left,High
+Samuel Abdi,O00825,Mara Petroleum | Tax & Legal | compliance,Prospecting,6980000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Lucy Kariuki,O00827,Mara Asset Managers | Deals | support,Proposal,28346000.0,Owner has left or is inactive,Reassign: owner has left,High
+Rose Langat,O00828,Simba Supermarkets | Tax & Legal | annual,Proposal,5989000.0,No next step recorded,Record the next step,Normal
+Lucy Kariuki,O00829,Amani Insurance | Consulting | support,Qualification,48918000.0,Owner has left or is inactive,Reassign: owner has left,High
+Lucy Kariuki,O00829,Amani Insurance | Consulting | support,Qualification,48918000.0,Probability does not match stage,Correct probability to match stage,High
+Mercy Barasa,O00830,Zuri Mining | Tax & Legal | annual,Closed Lost,3154000.0,Lost without a reason,Add the lost reason,Normal
+Daniel Wanjiru,O00831,Zuri Tea Estates | Assurance | support,Prospecting,29738000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Amina Otieno,O00833,Amani Authority | Tax & Legal | advisory,Prospecting,1913000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+(no owner),O00834,Kilimanjaro Sacco | Tax & Legal | due diligence,Closed Lost,4567000.0,No owner assigned,Assign an owner,High
+(no owner),O00834,Kilimanjaro Sacco | Tax & Legal | due diligence,Closed Lost,4567000.0,Lost without a reason,Add the lost reason,Normal
+Rose Langat,O00838,Twiga Horticulture | Risk | review,Qualification,1600000.0,No next step recorded,Record the next step,High
+Mark Njoroge,O00840,Lakeview County Government | Tax & Legal | annual,Negotiation,19423000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Samuel Abdi,O00841,Savanna Development Fund | Assurance | advisory,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Lucy Kariuki,O00842,Umoja Asset Managers | Tax & Legal | due diligence,Proposal,16360000.0,Owner has left or is inactive,Reassign: owner has left,High
+Cynthia Odhiambo,O00843,Umoja Asset Managers | Consulting | annual,Qualification,,Amount missing or zero,Add an estimated amount,High
+Zainab Wanjiru,O00850,Simba Foods | Deals | transformation,Prospecting,26856000.0,Owner has left or is inactive,Reassign: owner has left,High
+Zainab Wanjiru,O00850,Simba Foods | Deals | transformation,Prospecting,26856000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+(no owner),O00854,Lakeview Foods | Tax & Legal | compliance,Closed Lost,7155000.0,No owner assigned,Assign an owner,High
+Mark Njoroge,O00855,Pwani Media | Assurance | advisory,Qualification,0.0,Amount missing or zero,Add an estimated amount,High
+Mark Njoroge,O00855,Pwani Media | Assurance | advisory,Qualification,0.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Nancy Wafula,O00871,Rift Foods | Tax & Legal | transformation,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Grace Mwangi,O00876,Nile County Government | Consulting | advisory,Qualification,4140000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Grace Mwangi,O00876,Nile County Government | Consulting | advisory,Qualification,4140000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Amina Otieno,O00879,Safari Microfinance | Tax & Legal | due diligence,Qualification,4052000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Purity Achieng,O00882,Simba Hospital | Deals | annual,Prospecting,3709000.0,No next step recorded,Record the next step,Normal
+(no owner),O00886,Jambo Microfinance | Assurance | transformation,Negotiation,,Amount missing or zero,Add an estimated amount,High
+(no owner),O00886,Jambo Microfinance | Assurance | transformation,Negotiation,,No owner assigned,Assign an owner,High
+(no owner),O00886,Jambo Microfinance | Assurance | transformation,Negotiation,,Open with close date in the past,Update the close date or close the opportunity,High
+Samuel Abdi,O00891,Safari Microfinance | Tax & Legal | annual,Closed Lost,1655000.0,Lost without a reason,Add the lost reason,High
+Cynthia Odhiambo,O00894,Savanna Housing | Deals | readiness,Qualification,8235000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Tabitha Maina,O00895,Kilimanjaro Pharma | Consulting | support,Qualification,27319000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Peter Kiprop,O00897,Safari Cloud | Consulting | advisory,Proposal,6911000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Peter Kiprop,O00897,Safari Cloud | Consulting | advisory,Proposal,6911000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Yusuf Odhiambo,O00898,Highland Infrastructure | Consulting | annual,Negotiation,27617000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+Rose Langat,O00899,Kilimanjaro Digital | Consulting | compliance,Closed Lost,18661000.0,Lost without a reason,Add the lost reason,Normal
+Lucy Kariuki,O00902,Lakeview Digital | Consulting | support,Qualification,46349000.0,Owner has left or is inactive,Reassign: owner has left,High
+Amina Otieno,O00904,Baobab Energy | Tax & Legal | review,Closed Won,,Amount missing or zero,Add an estimated amount,High
+Samuel Abdi,O00905,Lakeview Hotels | Assurance | due diligence,Closed Lost,11950000.0,Lost without a reason,Add the lost reason,High
+Joseph Mwangi,O00908,Rift Health Group | Tax & Legal | due diligence,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Yusuf Odhiambo,O00914,Nyota Telecom | Consulting | support,Closed Lost,17346000.0,Lost without a reason,Add the lost reason,Normal
+(no owner),O00917,Rift Capital | Consulting | due diligence,Qualification,23442000.0,No owner assigned,Assign an owner,High
+Hassan Mutua,O00920,Kilimanjaro Pharma | Consulting | support,Closed Lost,5317000.0,Lost without a reason,Add the lost reason,Normal
+Irene Nyambura,O00924,Pwani Mining | Risk | readiness,Closed Won,,Amount missing or zero,Add an estimated amount,Normal
+Peter Kiprop,O00928,Nyota Telecom | Tax & Legal | readiness,Closed Lost,3742000.0,Lost without a reason,Add the lost reason,Normal
+Esther Kiprop,O00929,Lakeview Bank | Risk | review,Proposal,,Amount missing or zero,Add an estimated amount,High
+Esther Kiprop,O00932,Zuri Media | Consulting | support,Prospecting,19452000.0,Probability does not match stage,Correct probability to match stage,High
+Brian Chebet,O00933,Umoja Capital | Tax & Legal | readiness,Closed Lost,6544000.0,Lost without a reason,Add the lost reason,High
+Peter Kiprop,O00934,Lakeview Asset Managers | Consulting | due diligence,Proposal,20802000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Samuel Abdi,O00936,Highland Development Fund | Consulting | review,Proposal,31176000.0,No activity for more than 60 days,Log a recent activity or confirm status,Normal
+(no owner),O00937,Twiga Networks | Assurance | support,Closed Lost,13962000.0,No owner assigned,Assign an owner,High
+(no owner),O00937,Twiga Networks | Assurance | support,Closed Lost,13962000.0,Lost without a reason,Add the lost reason,Normal
+Mercy Barasa,O00943,Lakeview Bank | Deals | advisory,Prospecting,26759000.0,Open with close date in the past,Update the close date or close the opportunity,High
+Mercy Barasa,O00943,Lakeview Bank | Deals | advisory,Prospecting,26759000.0,No activity for more than 60 days,Log a recent activity or confirm status,High
+Grace Mwangi,O00944,Zuri Asset Managers | Tax & Legal | readiness,Closed Lost,0.0,Amount missing or zero,Add an estimated amount,High
+Mercy Barasa,O00945,Zuri Infrastructure | Tax & Legal | annual,Proposal,,Amount missing or zero,Add an estimated amount,Normal
+Grace Mwangi,O00950,Kilimanjaro Media | Consulting | readiness,Proposal,74394000.0,Open with close date in the past,Update the close date or close the opportunity,High

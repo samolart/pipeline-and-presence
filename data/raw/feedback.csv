@@ -1,0 +1,181 @@
+feedback_id,account_id,line_of_service,survey_date,rating,comment,follow_up_status
+F0001,A0307,Deals,2026-09-22,5,Quick to respond and always available when we need guidance.,Closed
+F0002,A0294,Consulting,2026-09-16,5,Quick to respond and always available when we need guidance.,Responded
+F0003,A0028,Assurance,2026-01-23,5,The client portal made sharing documents simple.,Closed
+F0004,A0037,Consulting,2025-12-04,1,We were not told about changes to the timeline early enough.,Closed
+F0005,A0167,Deals,2026-10-11,3,Updates were clear and regular.,Responded
+F0006,A0035,Tax & Legal,2026-05-22,3,Advice felt generic and not tailored to our industry.,Closed
+F0007,A0108,Tax & Legal,2026-06-24,5,The client portal made sharing documents simple.,Closed
+F0008,A0216,Consulting,2026-09-04,5,Event invitations are relevant to our work.,Open
+F0009,A0229,Assurance,2026-03-10,4,Updates were clear and regular.,Open
+F0010,A0085,Assurance,2025-12-26,2,Pricing was higher than we expected for the scope.,Closed
+F0011,A0014,Assurance,2025-12-25,4,The team brought genuinely useful sector insight.,Open
+F0012,A0164,Tax & Legal,2026-04-20,2,Too many separate emails from different teams.,Responded
+F0013,A0297,Risk,2026-06-10,4,Updates were clear and regular.,Open
+F0014,A0295,Tax & Legal,2026-08-17,2,Pricing was higher than we expected for the scope.,Responded
+F0015,A0119,Tax & Legal,2025-11-26,4,Event invitations are relevant to our work.,Open
+F0016,A0297,Assurance,2026-02-03,4,Fees were fair for the quality delivered.,Responded
+F0017,A0130,Deals,2026-05-22,5,The client portal made sharing documents simple.,Responded
+F0018,A0268,Assurance,2026-01-01,2,Pricing was higher than we expected for the scope.,Open
+F0019,A0208,Tax & Legal,2026-01-20,3,Quick to respond and always available when we need guidance.,Responded
+F0020,A0092,Assurance,2026-05-04,5,The client portal made sharing documents simple.,Responded
+F0021,A0045,Tax & Legal,2026-05-22,4,The team brought genuinely useful sector insight.,Open
+F0022,A0220,Assurance,2026-08-12,4,Clear scoping avoided surprises on cost.,Open
+F0023,A0277,Assurance,2026-10-01,4,Event invitations are relevant to our work.,Responded
+F0024,A0273,Assurance,2026-01-20,4,The client portal made sharing documents simple.,Responded
+F0025,A0226,Consulting,2026-05-29,3,One point of contact made everything easier.,Responded
+F0026,A0129,Risk,2026-07-04,2,Advice felt generic and not tailored to our industry.,Open
+F0027,A0244,Consulting,2026-10-11,4,The team brought genuinely useful sector insight.,Closed
+F0028,A0061,Assurance,2026-10-14,3,We were not told about changes to the timeline early enough.,Open
+F0029,A0162,Deals,2026-04-20,4,Updates were clear and regular.,Open
+F0030,A0135,Assurance,2026-08-05,3,Event invitations are relevant to our work.,Open
+F0031,A0068,Deals,2026-05-31,5,One point of contact made everything easier.,Closed
+F0032,A0293,Tax & Legal,2026-05-27,4,Pricing was higher than we expected for the scope.,Responded
+F0033,A0059,Assurance,2025-12-30,4,Quick to respond and always available when we need guidance.,Responded
+F0034,A0256,Tax & Legal,2026-02-16,3,Updates were clear and regular.,Open
+F0035,A0051,Assurance,2026-07-25,3,Event invitations are relevant to our work.,Responded
+F0036,A0110,Consulting,2026-07-24,4,Quick to respond and always available when we need guidance.,Responded
+F0037,A0239,Assurance,2026-06-14,3,Event invitations are relevant to our work.,Closed
+F0038,A0111,Consulting,2026-05-26,3,We were not told about changes to the timeline early enough.,Responded
+F0039,A0118,Consulting,2026-02-23,5,Event invitations are relevant to our work.,Responded
+F0040,A0201,Assurance,2026-03-15,5,Clear scoping avoided surprises on cost.,Responded
+F0041,A0186,Tax & Legal,2025-12-23,5,Updates were clear and regular.,Closed
+F0042,A0100,Tax & Legal,2025-12-24,2,Slow to come back on urgent queries.,Responded
+F0043,A0062,Tax & Legal,2026-06-04,5,The team brought genuinely useful sector insight.,Open
+F0044,A0038,Consulting,2026-01-06,4,The team brought genuinely useful sector insight.,Closed
+F0045,A0186,Tax & Legal,2025-11-25,4,One point of contact made everything easier.,Responded
+F0046,A0072,Assurance,2026-07-24,3,The team brought genuinely useful sector insight.,Open
+F0047,A0044,Tax & Legal,2026-04-12,2,Too many separate emails from different teams.,Open
+F0048,A0148,Deals,2026-06-03,5,Updates were clear and regular.,Responded
+F0049,A0300,Tax & Legal,2026-10-07,4,The client portal made sharing documents simple.,Responded
+F0050,A0180,Consulting,2026-03-27,5,Fees were fair for the quality delivered.,Open
+F0051,A0194,Risk,2026-08-01,4,Updates were clear and regular.,Closed
+F0052,A0159,Assurance,2026-08-15,5,The client portal made sharing documents simple.,Open
+F0053,A0204,Tax & Legal,2026-04-27,5,The client portal made sharing documents simple.,Open
+F0054,A0155,Tax & Legal,2026-09-21,5,Turnaround on our requests was faster than expected.,Responded
+F0055,A0272,Tax & Legal,2025-12-23,4,Fees were fair for the quality delivered.,Open
+F0056,A0199,Deals,2026-01-08,3,Advice felt generic and not tailored to our industry.,Open
+F0057,A0219,Consulting,2026-07-22,5,Quick to respond and always available when we need guidance.,Responded
+F0058,A0312,Assurance,2025-12-04,3,Pricing was higher than we expected for the scope.,Open
+F0059,A0015,Assurance,2026-10-11,2,Too many separate emails from different teams.,Closed
+F0060,A0268,Tax & Legal,2026-02-14,4,The team brought genuinely useful sector insight.,Responded
+F0061,A0164,Risk,2026-07-06,5,The client portal made sharing documents simple.,Open
+F0062,A0208,Deals,2026-01-03,4,One point of contact made everything easier.,Closed
+F0063,A0210,Consulting,2026-02-09,4,The team brought genuinely useful sector insight.,Open
+F0064,A0236,Deals,2025-12-02,5,The thought leadership alerts help us stay ahead of regulation.,Responded
+F0065,A0112,Assurance,2026-09-21,3,The team brought genuinely useful sector insight.,Open
+F0066,A0188,Risk,2026-09-17,1,Advice felt generic and not tailored to our industry.,Responded
+F0067,A0140,Assurance,2026-03-09,4,Updates were clear and regular.,Closed
+F0068,A0279,Tax & Legal,2026-02-17,2,We were not told about changes to the timeline early enough.,Closed
+F0069,A0101,Deals,2026-05-12,4,Event invitations are relevant to our work.,Closed
+F0070,A0239,Tax & Legal,2026-04-07,5,Turnaround on our requests was faster than expected.,Open
+F0071,A0142,Deals,2026-04-08,4,Slow to come back on urgent queries.,Responded
+F0072,A0186,Consulting,2026-08-10,3,We were not told about changes to the timeline early enough.,Responded
+F0073,A0284,Assurance,2026-09-20,4,Event invitations are relevant to our work.,Closed
+F0074,A0041,Assurance,2026-01-30,5,The team brought genuinely useful sector insight.,Open
+F0075,A0016,Consulting,2026-02-11,1,We were not told about changes to the timeline early enough.,Responded
+F0076,A0002,Consulting,2026-03-29,4,Event invitations are relevant to our work.,Open
+F0077,A0115,Risk,2026-08-26,3,Slow to come back on urgent queries.,Responded
+F0078,A0012,Tax & Legal,2026-01-07,4,Updates were clear and regular.,Closed
+F0079,A0151,Tax & Legal,2026-06-15,3,One point of contact made everything easier.,Responded
+F0080,A0124,Deals,2026-01-01,4,Event invitations are relevant to our work.,Responded
+F0081,A0288,Consulting,2025-12-20,5,Fees were fair for the quality delivered.,Closed
+F0082,A0074,Consulting,2026-10-11,5,Quick to respond and always available when we need guidance.,Open
+F0083,A0178,Tax & Legal,2026-07-22,3,Advice felt generic and not tailored to our industry.,Closed
+F0084,A0041,Tax & Legal,2026-01-09,4,Pricing was higher than we expected for the scope.,Responded
+F0085,A0246,Tax & Legal,2026-09-11,5,Clear scoping avoided surprises on cost.,Closed
+F0086,A0241,Consulting,2026-07-16,5,Updates were clear and regular.,Closed
+F0087,A0202,Deals,2026-03-23,4,The client portal made sharing documents simple.,Responded
+F0088,A0004,Risk,2026-04-29,4,The client portal made sharing documents simple.,Responded
+F0089,A0246,Consulting,2026-07-04,5,Turnaround on our requests was faster than expected.,Closed
+F0090,A0301,Deals,2026-10-11,5,One point of contact made everything easier.,Responded
+F0091,A0300,Tax & Legal,2026-04-12,4,Updates were clear and regular.,Closed
+F0092,A0039,Tax & Legal,2026-07-05,2,Too many separate emails from different teams.,Open
+F0093,A0263,Risk,2026-03-12,4,The team brought genuinely useful sector insight.,Responded
+F0094,A0278,Tax & Legal,2025-12-09,3,Slow to come back on urgent queries.,Responded
+F0095,A0280,Assurance,2026-08-18,4,Quick to respond and always available when we need guidance.,Responded
+F0096,A0067,Consulting,2026-06-04,4,The team brought genuinely useful sector insight.,Responded
+F0097,A0070,Consulting,2026-09-30,4,The thought leadership alerts help us stay ahead of regulation.,Open
+F0098,A0081,Consulting,2026-07-10,4,Turnaround on our requests was faster than expected.,Responded
+F0099,A0184,Risk,2026-04-16,4,Updates were clear and regular.,Open
+F0100,A0318,Consulting,2026-10-11,5,Updates were clear and regular.,Responded
+F0101,A0070,Deals,2026-02-21,3,The client portal made sharing documents simple.,Responded
+F0102,A0312,Consulting,2026-08-11,5,Fees were fair for the quality delivered.,Closed
+F0103,A0320,Assurance,2026-03-25,4,One point of contact made everything easier.,Responded
+F0104,A0054,Tax & Legal,2025-11-26,5,The client portal made sharing documents simple.,Open
+F0105,A0133,Assurance,2026-09-14,2,We were not told about changes to the timeline early enough.,Open
+F0106,A0080,Consulting,2026-06-20,5,Pricing was higher than we expected for the scope.,Responded
+F0107,A0067,Deals,2026-04-10,2,We were not told about changes to the timeline early enough.,Responded
+F0108,A0303,Risk,2026-04-01,5,Fees were fair for the quality delivered.,Responded
+F0109,A0141,Risk,2026-08-12,4,Quick to respond and always available when we need guidance.,Open
+F0110,A0140,Tax & Legal,2026-01-01,4,Updates were clear and regular.,Closed
+F0111,A0259,Assurance,2026-08-11,4,Fees were fair for the quality delivered.,Responded
+F0112,A0191,Consulting,2026-01-24,2,We were not told about changes to the timeline early enough.,Responded
+F0113,A0110,Deals,2026-09-27,4,Quick to respond and always available when we need guidance.,Closed
+F0114,A0309,Tax & Legal,2026-07-20,4,Updates were clear and regular.,Open
+F0115,A0096,Assurance,2026-05-23,2,Too many separate emails from different teams.,Closed
+F0116,A0092,Consulting,2026-01-01,2,Pricing was higher than we expected for the scope.,Open
+F0117,A0097,Consulting,2026-02-03,1,We were not told about changes to the timeline early enough.,Responded
+F0118,A0306,Deals,2026-08-16,1,We were not told about changes to the timeline early enough.,Responded
+F0119,A0151,Deals,2026-04-21,2,We were not told about changes to the timeline early enough.,Responded
+F0120,A0024,Assurance,2026-07-28,4,The team brought genuinely useful sector insight.,Closed
+F0121,A0021,Assurance,2026-09-24,3,Advice felt generic and not tailored to our industry.,Closed
+F0122,A0082,Tax & Legal,2026-03-04,4,Turnaround on our requests was faster than expected.,Closed
+F0123,A0283,Assurance,2026-03-06,3,We were not told about changes to the timeline early enough.,Closed
+F0124,A0116,Tax & Legal,2026-07-09,1,Slow to come back on urgent queries.,Responded
+F0125,A0096,Consulting,2026-10-14,4,Fees were fair for the quality delivered.,Responded
+F0126,A0087,Consulting,2026-03-20,3,We were not told about changes to the timeline early enough.,Open
+F0127,A0198,Consulting,2026-03-21,5,Event invitations are relevant to our work.,Closed
+F0128,A0121,Assurance,2026-03-22,3,Advice felt generic and not tailored to our industry.,Closed
+F0129,A0029,Deals,2026-05-20,5,The team brought genuinely useful sector insight.,Closed
+F0130,A0319,Consulting,2025-12-02,4,Fees were fair for the quality delivered.,Closed
+F0131,A0285,Consulting,2026-08-27,4,The team brought genuinely useful sector insight.,Responded
+F0132,A0302,Assurance,2026-10-08,2,Turnaround on our requests was faster than expected.,Open
+F0133,A0035,Deals,2026-09-11,4,The team brought genuinely useful sector insight.,Responded
+F0134,A0061,Deals,2026-04-09,3,The team brought genuinely useful sector insight.,Responded
+F0135,A0180,Consulting,2026-07-19,5,Quick to respond and always available when we need guidance.,Responded
+F0136,A0251,Assurance,2026-01-06,2,Advice felt generic and not tailored to our industry.,Open
+F0137,A0176,Risk,2026-09-25,5,The thought leadership alerts help us stay ahead of regulation.,Responded
+F0138,A0088,Deals,2026-06-22,3,The client portal made sharing documents simple.,Responded
+F0139,A0049,Tax & Legal,2026-06-13,3,One point of contact made everything easier.,Closed
+F0140,A0233,Consulting,2026-09-16,2,Pricing was higher than we expected for the scope.,Closed
+F0141,A0266,Consulting,2025-12-29,4,The team brought genuinely useful sector insight.,Closed
+F0142,A0136,Tax & Legal,2025-12-19,3,The client portal made sharing documents simple.,Open
+F0143,A0210,Assurance,2026-08-31,3,The thought leadership alerts help us stay ahead of regulation.,Responded
+F0144,A0279,Deals,2026-03-18,4,Fees were fair for the quality delivered.,Open
+F0145,A0004,Tax & Legal,2025-11-26,4,Fees were fair for the quality delivered.,Responded
+F0146,A0113,Consulting,2026-06-13,3,The team brought genuinely useful sector insight.,Closed
+F0147,A0209,Consulting,2025-11-24,5,The team brought genuinely useful sector insight.,Responded
+F0148,A0103,Consulting,2026-03-16,4,Clear scoping avoided surprises on cost.,Responded
+F0149,A0250,Assurance,2026-02-15,4,The thought leadership alerts help us stay ahead of regulation.,Closed
+F0150,A0035,Tax & Legal,2026-04-02,4,Updates were clear and regular.,Responded
+F0151,A0303,Tax & Legal,2026-04-01,5,The client portal made sharing documents simple.,Closed
+F0152,A0149,Consulting,2026-07-06,4,Event invitations are relevant to our work.,Closed
+F0153,A0104,Risk,2026-03-18,2,We were not told about changes to the timeline early enough.,Closed
+F0154,A0159,Consulting,2026-01-08,4,Fees were fair for the quality delivered.,Responded
+F0155,A0306,Risk,2026-02-19,3,Fees were fair for the quality delivered.,Responded
+F0156,A0270,Assurance,2026-09-26,3,We were not told about changes to the timeline early enough.,Closed
+F0157,A0122,Tax & Legal,2026-05-28,4,Turnaround on our requests was faster than expected.,Responded
+F0158,A0036,Assurance,2026-09-25,5,The team brought genuinely useful sector insight.,Responded
+F0159,A0229,Consulting,2026-01-18,4,Clear scoping avoided surprises on cost.,Responded
+F0160,A0193,Consulting,2026-09-26,2,Too many separate emails from different teams.,Responded
+F0161,A0236,Risk,2026-09-04,2,Slow to come back on urgent queries.,Open
+F0162,A0318,Tax & Legal,2026-08-23,4,Quick to respond and always available when we need guidance.,Open
+F0163,A0085,Consulting,2026-04-24,3,Pricing was higher than we expected for the scope.,Open
+F0164,A0011,Assurance,2026-06-12,3,Pricing was higher than we expected for the scope.,Open
+F0165,A0196,Risk,2026-04-16,5,The client portal made sharing documents simple.,Closed
+F0166,A0267,Deals,2025-12-27,4,Fees were fair for the quality delivered.,Closed
+F0167,A0075,Consulting,2026-02-13,4,Fees were fair for the quality delivered.,Closed
+F0168,A0232,Consulting,2026-08-22,4,One point of contact made everything easier.,Closed
+F0169,A0166,Risk,2025-12-02,2,Too many separate emails from different teams.,Open
+F0170,A0300,Deals,2025-12-11,2,We were not told about changes to the timeline early enough.,Closed
+F0171,A0014,Consulting,2026-06-17,4,Updates were clear and regular.,Responded
+F0172,A0304,Consulting,2026-01-22,4,Updates were clear and regular.,Responded
+F0173,A0296,Assurance,2026-03-25,2,Advice felt generic and not tailored to our industry.,Open
+F0174,A0231,Consulting,2026-04-22,2,Pricing was higher than we expected for the scope.,Responded
+F0175,A0165,Tax & Legal,2026-07-06,4,The client portal made sharing documents simple.,Closed
+F0176,A0250,Consulting,2026-01-13,2,Advice felt generic and not tailored to our industry.,Closed
+F0177,A0235,Deals,2026-07-02,4,Clear scoping avoided surprises on cost.,Open
+F0178,A0166,Assurance,2026-05-13,2,We were not told about changes to the timeline early enough.,Open
+F0179,A0262,Consulting,2025-12-05,5,The team brought genuinely useful sector insight.,Responded
+F0180,A0164,Consulting,2026-07-16,5,Fees were fair for the quality delivered.,Responded

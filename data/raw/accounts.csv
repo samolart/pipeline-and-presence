@@ -1,0 +1,333 @@
+account_id,account_name,industry,tier,account_type,city,account_driver,created_date
+A0001,Jambo Microfinance Limited,Financial Services,Priority,Listed company,Nairobi,U001,2025-09-26
+A0002,Umoja Capital Limited,Financial Services,Priority,Private company,Mombasa,U002,2021-04-19
+A0003,Nile Microfinance Limited,Financial Services,Priority,Public sector,Nairobi,U003,2022-07-10
+A0004,Pwani Asset Managers Limited,Financial Services,Priority,NGO / development partner,Nairobi,U004,2023-03-19
+A0005,Twiga Agri Limited,Agribusiness,Priority,Private company,Nairobi,U005,2024-05-01
+A0006,Kibo Microfinance Limited,Financial Services,Priority,Private company,Nairobi,U006,2021-05-23
+A0007,Nile County Government,Public Sector & Development,Priority,Private company,Nairobi,U007,2024-06-28
+A0008,Tembo Capital Limited,Financial Services,Priority,Public sector,Nairobi,U001,2021-07-24
+A0009,Rift Cloud Limited,"Technology, Media & Telecom",Priority,Private company,Nairobi,U002,2024-08-01
+A0010,Umoja Asset Managers Limited,Financial Services,Priority,Private company,Kisumu,U003,2021-06-25
+A0011,Rift Capital Limited,Financial Services,Priority,Private company,Nairobi,U004,2025-10-27
+A0012,Safari Microfinance Limited,Financial Services,Priority,NGO / development partner,Nairobi,U005,2022-02-24
+A0013,Kilimanjaro Capital Limited,Financial Services,Priority,Listed company,Mombasa,U006,2024-05-27
+A0014,Jua Beverages Limited,Consumer & Retail,Priority,Private company,Nairobi,U007,2025-03-17
+A0015,Baobab Energy Limited,Energy & Resources,Priority,Private company,Nairobi,U001,2023-11-02
+A0016,Mara Foods Limited,Consumer & Retail,Priority,Public sector,Mombasa,U002,2023-04-04
+A0017,Twiga Power Limited,Energy & Resources,Priority,NGO / development partner,Nairobi,U003,2025-05-02
+A0018,Lakeview Digital Limited,"Technology, Media & Telecom",Priority,Private company,Nairobi,U004,2025-03-29
+A0019,Zuri Media Limited,"Technology, Media & Telecom",Priority,Private company,Nairobi,U005,2026-03-24
+A0020,Baobab Infrastructure Limited,Real Estate & Infrastructure,Priority,Public sector,Nairobi,U006,2021-08-01
+A0021,Zuri Asset Managers Limited,Financial Services,Priority,Multinational subsidiary,Eldoret,U007,2022-06-15
+A0022,Savanna Sacco Limited,Financial Services,Priority,Private company,Nakuru,U001,2024-10-09
+A0023,Jambo Petroleum Limited,Energy & Resources,Priority,Private company,Eldoret,U002,2024-09-23
+A0024,Simba Commission,Public Sector & Development,Priority,NGO / development partner,Nairobi,U003,2020-11-24
+A0025,Lakeview Bank Limited,Financial Services,Priority,Public sector,Nairobi,U004,2024-09-24
+A0026,Lakeview Development Fund,Public Sector & Development,Priority,Private company,Nairobi,U005,2026-01-04
+A0027,Safari Growers Limited,Agribusiness,Priority,Listed company,Mombasa,U006,2021-08-05
+A0028,Lakeview Hotels Limited,Consumer & Retail,Priority,NGO / development partner,Nairobi,U007,2026-06-13
+A0029,Acacia Mining Limited,Energy & Resources,Priority,Listed company,Nairobi,U001,2021-11-05
+A0030,Nile Networks Limited,"Technology, Media & Telecom",Priority,Private company,Nairobi,U002,2025-06-28
+A0031,Acacia Hospital Limited,,Priority,Private company,Mombasa,U003,2023-02-18
+A0032,Jambo Tea Estates Limited,Agribusiness,Priority,Multinational subsidiary,Nairobi,U004,2025-06-06
+A0033,Twiga Horticulture Limited,Agribusiness,Priority,Private company,Nairobi,U005,2026-05-06
+A0034,Harambee Capital Limited,Financial Services,Priority,Private company,Kisumu,U006,2025-11-19
+A0035,Kilimanjaro Media Limited,"Technology, Media & Telecom",Priority,Private company,Nairobi,U007,2022-01-10
+A0036,Amani Authority,Public Sector & Development,Priority,NGO / development partner,Nairobi,U001,2025-06-19
+A0037,Zuri Hotels Limited,,Priority,Private company,Mombasa,U002,2024-06-19
+A0038,Pwani Media Limited,"Technology, Media & Telecom",Priority,NGO / development partner,Nairobi,U003,2022-08-10
+A0039,Baobab Power Limited,Energy & Resources,Priority,Private company,Kisumu,U004,2023-02-16
+A0040,Amani Insurance Limited,Financial Services,Priority,Private company,Nairobi,U005,2025-11-21
+A0041,Simba Foods Limited,Consumer & Retail,Key,Private company,Eldoret,U024,2021-10-12
+A0042,Amani Media Limited,"Technology, Media & Telecom",Key,Private company,Nairobi,U010,2025-04-30
+A0043,Zuri Power Limited,Energy & Resources,Key,Multinational subsidiary,Nairobi,U012,2021-09-24
+A0044,Harambee Commission,Public Sector & Development,Key,Private company,Eldoret,U006,2021-10-18
+A0045,Acacia Infrastructure Limited,Real Estate & Infrastructure,Key,Private company,Nairobi,U004,2025-07-15
+A0046,Nyota Telecom Limited,"Technology, Media & Telecom",Key,NGO / development partner,Nairobi,U025,2022-12-08
+A0047,Acacia Properties Limited,Real Estate & Infrastructure,Key,Private company,Nairobi,U002,2026-04-26
+A0048,Safari Pharma Limited,Health,Key,Listed company,Nairobi,U004,2020-11-04
+A0049,Baobab Agri Limited,Agribusiness,Key,Private company,Nairobi,U008,2024-05-05
+A0050,Mara Commission,Public Sector & Development,Key,Private company,Nairobi,U016,2024-04-08
+A0051,Kibo Sacco Limited,Financial Services,Key,NGO / development partner,Nairobi,U027,2022-02-19
+A0052,Highland Telecom Limited,"Technology, Media & Telecom",Key,Public sector,Nairobi,U026,2026-02-10
+A0053,Jambo Insurance Limited,,Key,Public sector,Nakuru,U005,2024-01-07
+A0054,Equator Telecom Limited,"Technology, Media & Telecom",Key,Public sector,Mombasa,U011,2024-05-19
+A0055,Kibo Commission,Public Sector & Development,Key,Public sector,Nairobi,U025,2025-10-19
+A0056,Amani Petroleum Limited,Energy & Resources,Key,Listed company,Nairobi,U001,2020-10-31
+A0057,Mto Supermarkets Limited,Consumer & Retail,Key,Listed company,Kisumu,U002,2024-10-08
+A0058,Rift Energy Limited,Energy & Resources,Key,Public sector,Nakuru,U021,2022-08-26
+A0059,Nile Energy Limited,Energy & Resources,Key,Private company,Nakuru,U019,2024-08-25
+A0060,Simba Development Fund,Public Sector & Development,Key,Private company,Nakuru,U005,2026-03-25
+A0061,Mara Petroleum Limited,Energy & Resources,Key,Private company,Nairobi,U019,2020-11-02
+A0062,Safari Digital Limited,"Technology, Media & Telecom",Key,Multinational subsidiary,Nairobi,U021,2021-06-14
+A0063,Simba Supermarkets Limited,Consumer & Retail,Key,Listed company,Nakuru,U018,2021-10-25
+A0064,Twiga Insurance Limited,Financial Services,Key,Private company,Nairobi,U019,2026-02-04
+A0065,Baobab Telecom Limited,"Technology, Media & Telecom",Key,NGO / development partner,Nakuru,U020,2025-01-05
+A0066,Pwani Hospital Limited,Health,Key,Public sector,Nairobi,U019,2023-10-14
+A0067,Acacia Media Limited,"Technology, Media & Telecom",Key,Public sector,Nairobi,U009,2022-01-08
+A0068,Nyota Asset Managers Limited,Financial Services,Key,Public sector,Nairobi,U005,2024-05-19
+A0069,Twiga Development Fund,Public Sector & Development,Key,NGO / development partner,Nairobi,U028,2025-08-13
+A0070,Amani Digital Limited,"Technology, Media & Telecom",Key,Listed company,Nairobi,U022,2023-04-03
+A0071,Jambo Agri Limited,Agribusiness,Key,Listed company,Mombasa,U023,2021-08-04
+A0072,Twiga Asset Managers Limited,Financial Services,Key,Listed company,Nairobi,U028,2025-02-21
+A0073,Acacia Capital Limited,Financial Services,Key,Public sector,Kisumu,U001,2022-02-10
+A0074,Simba Hospital Limited,Health,Key,Public sector,Nairobi,U019,2025-04-19
+A0075,Amani Properties Limited,Real Estate & Infrastructure,Key,Public sector,Nairobi,U009,2022-08-11
+A0076,Mto Retail Limited,Consumer & Retail,Key,Private company,Nairobi,U009,2021-01-24
+A0077,Umoja Foods Limited,Consumer & Retail,Key,Multinational subsidiary,Nairobi,U009,2022-04-13
+A0078,Lakeview Asset Managers Limited,Financial Services,Key,NGO / development partner,Mombasa,U028,2022-04-24
+A0079,Equator Sacco Limited,Financial Services,Key,Multinational subsidiary,Mombasa,U019,2023-03-25
+A0080,Harambee Cloud Limited,,Key,Multinational subsidiary,Nairobi,U015,2022-10-01
+A0081,Pwani Mining Limited,Energy & Resources,Key,Private company,Nairobi,U027,2026-03-15
+A0082,Nile Beverages Limited,Consumer & Retail,Key,Multinational subsidiary,Mombasa,U005,2023-06-25
+A0083,Lakeview Foods Limited,Consumer & Retail,Key,Listed company,Nairobi,U020,2025-02-13
+A0084,Simba Digital Limited,"Technology, Media & Telecom",Key,Private company,Nairobi,U021,2024-02-17
+A0085,Acacia Microfinance Limited,,Key,Private company,Nairobi,U003,2021-04-30
+A0086,Zuri Infrastructure Limited,Real Estate & Infrastructure,Key,Listed company,Nairobi,U026,2021-05-14
+A0087,Harambee Authority,Public Sector & Development,Key,Listed company,Nairobi,U011,2025-04-23
+A0088,Savanna Development Fund,Public Sector & Development,Key,Public sector,Nairobi,U004,2022-03-29
+A0089,Harambee Supermarkets Limited,Consumer & Retail,Key,Multinational subsidiary,Kisumu,U027,2025-02-02
+A0090,Lakeview Agri Limited,Agribusiness,Key,Listed company,Mombasa,U025,2025-11-04
+A0091,Lakeview County Government,Public Sector & Development,Key,Multinational subsidiary,Nairobi,U024,2022-08-17
+A0092,Mara Hotels Limited,Consumer & Retail,Key,Public sector,Nairobi,U012,2022-07-17
+A0093,Baobab County Government,Public Sector & Development,Key,Public sector,Nairobi,U026,2021-07-02
+A0094,Harambee Development Fund,Public Sector & Development,Key,Multinational subsidiary,Nairobi,U015,2021-06-05
+A0095,Equator Supermarkets Limited,Consumer & Retail,Key,Multinational subsidiary,Nairobi,U005,2025-08-23
+A0096,Equator Energy Limited,Energy & Resources,Key,Public sector,Nakuru,U015,2022-09-30
+A0097,Savanna Telecom Limited,"Technology, Media & Telecom",Key,NGO / development partner,Nairobi,U019,2024-11-06
+A0098,Twiga Networks Limited,"Technology, Media & Telecom",Key,Private company,Nairobi,U022,2022-03-10
+A0099,Equator Bank Limited,Financial Services,Key,Public sector,Nairobi,U002,2022-06-09
+A0100,Mara Networks Limited,"Technology, Media & Telecom",Key,Private company,Nairobi,U028,2022-07-04
+A0101,Kibo Pharma Limited,,Key,Private company,Nairobi,U023,2025-05-09
+A0102,Pwani Capital Limited,Financial Services,Key,Private company,Eldoret,U026,2021-05-20
+A0103,Twiga Telecom Limited,"Technology, Media & Telecom",Key,NGO / development partner,Nairobi,U013,2023-10-05
+A0104,Jambo Dairy Limited,Agribusiness,Key,Private company,Kisumu,U011,2025-10-04
+A0105,Pwani Digital Limited,"Technology, Media & Telecom",Key,Listed company,Nairobi,U012,2021-01-19
+A0106,Tembo Dairy Limited,Agribusiness,Key,NGO / development partner,Nairobi,U028,2024-08-03
+A0107,Highland Supermarkets Limited,Consumer & Retail,Key,Listed company,Nairobi,U011,2023-03-08
+A0108,Harambee County Government,Public Sector & Development,Key,NGO / development partner,Nairobi,U026,2020-11-04
+A0109,Mara Asset Managers Limited,Financial Services,Key,Public sector,Nairobi,U024,2026-04-24
+A0110,Mto Media Limited,"Technology, Media & Telecom",Key,Private company,Nairobi,U020,2024-02-24
+A0111,Equator Petroleum Limited,Energy & Resources,Standard,Listed company,Nairobi,U019,2023-05-28
+A0112,Jambo Retail Limited,Consumer & Retail,Standard,Public sector,Nairobi,U004,2023-05-06
+A0113,Twiga Commission,Public Sector & Development,Standard,Private company,Nairobi,U003,2026-01-31
+A0114,Lakeview Insurance Limited,Financial Services,Standard,Private company,Nairobi,U013,2021-08-08
+A0115,Nyota County Government,Public Sector & Development,Standard,Multinational subsidiary,Nakuru,U008,2026-03-02
+A0116,Nile Sacco Limited,,Standard,Multinational subsidiary,Nairobi,U011,2026-03-17
+A0117,Simba Media Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Kisumu,U005,2024-07-05
+A0118,Jambo Hospital Limited,Health,Standard,Listed company,Nairobi,U001,2026-02-25
+A0119,Acacia Pharma Limited,Health,Standard,Private company,Nairobi,U002,2020-12-27
+A0120,Nyota Horticulture Limited,Agribusiness,Standard,Multinational subsidiary,Nairobi,U011,2024-04-15
+A0121,Amani Sacco Limited,Financial Services,Standard,Listed company,Nairobi,U007,2020-11-23
+A0122,Jambo Power Limited,Energy & Resources,Standard,Private company,Nairobi,U006,2021-03-12
+A0123,Nile Development Fund,Public Sector & Development,Standard,Private company,Nairobi,U016,2024-07-20
+A0124,Lakeview Mining Limited,Energy & Resources,Standard,Multinational subsidiary,Mombasa,U015,2020-11-26
+A0125,Safari Petroleum Limited,Energy & Resources,Standard,Multinational subsidiary,Nakuru,U027,2026-03-18
+A0126,Umoja Insurance Limited,Financial Services,Standard,Multinational subsidiary,Nairobi,U002,2024-03-06
+A0127,Amani Asset Managers Limited,Financial Services,Standard,Private company,Mombasa,U010,2021-11-29
+A0128,Umoja County Government,Public Sector & Development,Standard,Multinational subsidiary,Nairobi,U022,2021-03-31
+A0129,Tembo Housing Limited,Real Estate & Infrastructure,Standard,Multinational subsidiary,Nairobi,U001,2022-12-29
+A0130,Tembo Asset Managers Limited,Financial Services,Standard,Private company,Nairobi,U004,2024-08-28
+A0131,Jua Development Fund,Public Sector & Development,Standard,Listed company,Mombasa,U004,2020-10-16
+A0132,Kilimanjaro Hotels Limited,Consumer & Retail,Standard,Private company,Nairobi,U021,2026-03-29
+A0133,Kibo Construction Limited,Real Estate & Infrastructure,Standard,Private company,Nairobi,U028,2024-03-23
+A0134,Pwani Geothermal Limited,,Standard,Private company,Nairobi,U021,2020-10-17
+A0135,Nyota Mining Limited,Energy & Resources,Standard,Private company,Nairobi,U002,2023-06-09
+A0136,Nyota Tea Estates Limited,,Standard,Listed company,Nairobi,U021,2023-01-20
+A0137,Amani Networks Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U021,2022-09-20
+A0138,Baobab Development Fund,Public Sector & Development,Standard,Listed company,Nairobi,U016,2024-12-03
+A0139,Umoja Microfinance Limited,Financial Services,Standard,Public sector,Mombasa,U005,2026-05-04
+A0140,Kilimanjaro Digital Limited,"Technology, Media & Telecom",Standard,NGO / development partner,Mombasa,U018,2023-08-04
+A0141,Simba Properties Limited,Real Estate & Infrastructure,Standard,Private company,Nairobi,U024,2022-10-10
+A0142,Baobab Health Group Limited,,Standard,Listed company,Nakuru,U004,2024-12-06
+A0143,Jambo Infrastructure Limited,Real Estate & Infrastructure,Standard,Private company,Nairobi,U019,2022-03-07
+A0144,Baobab Insurance Limited,Financial Services,Standard,Listed company,Kisumu,U003,2022-04-22
+A0145,Savanna Housing Limited,Real Estate & Infrastructure,Standard,Listed company,Mombasa,U008,2022-02-02
+A0146,Pwani Tea Estates Limited,Agribusiness,Standard,Public sector,Nairobi,U011,2022-02-12
+A0147,Kibo Hotels Limited,Consumer & Retail,Standard,Private company,Nairobi,U005,2022-07-20
+A0148,Mara Media Limited,"Technology, Media & Telecom",Standard,NGO / development partner,Nairobi,U021,2023-04-01
+A0149,Savanna Construction Limited,Real Estate & Infrastructure,Standard,Public sector,Mombasa,U022,2026-01-02
+A0150,Umoja Hospital Limited,Health,Standard,Listed company,Nairobi,U027,2025-11-30
+A0151,Jambo Construction Limited,Real Estate & Infrastructure,Standard,Public sector,Nairobi,U013,2021-11-29
+A0152,Lakeview Sacco Limited,Financial Services,Standard,Private company,Nairobi,U017,2023-05-18
+A0153,Kilimanjaro Growers Limited,Agribusiness,Standard,Listed company,Nairobi,U016,2024-03-19
+A0154,Pwani Sacco Limited,Financial Services,Standard,Multinational subsidiary,Nakuru,U013,2023-07-21
+A0155,Safari Hotels Limited,Consumer & Retail,Standard,Multinational subsidiary,Nairobi,U005,2024-02-01
+A0156,Nyota Media Limited,"Technology, Media & Telecom",Standard,Listed company,Nairobi,U007,2025-07-30
+A0157,Nile Insurance Limited,Financial Services,Standard,Private company,Nairobi,U022,2023-06-18
+A0158,Kibo Digital Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U009,2024-09-19
+A0159,Lakeview Telecom Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U014,2021-07-10
+A0160,Mto Construction Limited,Real Estate & Infrastructure,Standard,Private company,Nakuru,U013,2024-11-14
+A0161,Equator Diagnostics Limited,Health,Standard,Public sector,Mombasa,U015,2023-10-16
+A0162,Twiga Foundation,Public Sector & Development,Standard,Public sector,Nairobi,U008,2023-09-30
+A0163,Baobab Bank Limited,Financial Services,Standard,NGO / development partner,Kisumu,U026,2024-05-22
+A0164,Highland Development Fund,Public Sector & Development,Standard,Multinational subsidiary,Nairobi,U019,2022-02-22
+A0165,Nile Bank Limited,Financial Services,Standard,Private company,Nairobi,U017,2024-12-07
+A0166,Harambee Foundation,Public Sector & Development,Standard,Listed company,Kisumu,U016,2020-11-29
+A0167,Simba Hotels Limited,Consumer & Retail,Standard,Private company,Eldoret,U012,2023-03-19
+A0168,Zuri Dairy Limited,Agribusiness,Standard,Private company,Nairobi,U005,2021-10-30
+A0169,Umoja Retail Limited,Consumer & Retail,Standard,Private company,Nakuru,U002,2024-01-30
+A0170,Mara Sacco Limited,Financial Services,Standard,Private company,Nairobi,U024,2023-09-17
+A0171,Highland Growers Limited,Agribusiness,Standard,Private company,Nairobi,U010,2023-03-03
+A0172,Twiga Geothermal Limited,Energy & Resources,Standard,Multinational subsidiary,Nairobi,U011,2022-04-25
+A0173,Kilimanjaro County Government,Public Sector & Development,Standard,Public sector,Nakuru,U007,2022-06-06
+A0174,Twiga Digital Limited,"Technology, Media & Telecom",Standard,Listed company,Nairobi,U002,2021-07-14
+A0175,Zuri Foundation,Public Sector & Development,Standard,NGO / development partner,Kisumu,U016,2024-07-12
+A0176,Baobab Capital Limited,Financial Services,Standard,NGO / development partner,Eldoret,U014,2023-08-31
+A0177,Nyota Dairy Limited,Agribusiness,Standard,Listed company,Nairobi,U014,2023-06-30
+A0178,Baobab Foundation,Public Sector & Development,Standard,Multinational subsidiary,Nairobi,U003,2021-11-05
+A0179,Lakeview Foundation,Public Sector & Development,Standard,Private company,Nairobi,U006,2022-01-08
+A0180,Lakeview Authority,Public Sector & Development,Standard,NGO / development partner,Nairobi,U020,2026-05-24
+A0181,Kilimanjaro Asset Managers Limited,Financial Services,Standard,Private company,Mombasa,U025,2026-02-17
+A0182,Lakeview Beverages Limited,Consumer & Retail,Standard,NGO / development partner,Nairobi,U021,2022-08-08
+A0183,Simba County Government,Public Sector & Development,Standard,NGO / development partner,Nairobi,U002,2021-03-12
+A0184,Twiga Dairy Limited,Agribusiness,Standard,Listed company,Nairobi,U002,2022-10-03
+A0185,Tembo Foods Limited,Consumer & Retail,Standard,Listed company,Nairobi,U028,2025-04-19
+A0186,Nyota Foods Limited,Consumer & Retail,Standard,Public sector,Nairobi,U006,2021-08-01
+A0187,Kibo Energy Limited,Energy & Resources,Standard,Multinational subsidiary,Nairobi,U013,2025-04-13
+A0188,Safari Beverages Limited,Consumer & Retail,Standard,NGO / development partner,Nairobi,U006,2022-03-29
+A0189,Simba Power Limited,Energy & Resources,Standard,Multinational subsidiary,Nairobi,U017,2021-04-24
+A0190,Tembo Authority,Public Sector & Development,Standard,Listed company,Nairobi,U002,2021-08-17
+A0191,Jambo Diagnostics Limited,Health,Standard,Private company,Nairobi,U006,2023-06-12
+A0192,Safari Cloud Limited,"Technology, Media & Telecom",Standard,Public sector,Nairobi,U009,2025-11-11
+A0193,Nyota Hotels Limited,Consumer & Retail,Standard,Multinational subsidiary,Nairobi,U027,2023-02-10
+A0194,Safari Logistics Limited,Real Estate & Infrastructure,Standard,Private company,Mombasa,U023,2026-02-23
+A0195,Amani Growers Limited,Agribusiness,Standard,Private company,Nairobi,U016,2023-07-08
+A0196,Rift Health Group Limited,Health,Standard,Private company,Kisumu,U027,2025-01-17
+A0197,Tembo Pharma Limited,Health,Standard,Public sector,Nairobi,U008,2021-11-19
+A0198,Kilimanjaro Development Fund,Public Sector & Development,Standard,Public sector,Nakuru,U017,2022-04-13
+A0199,Amani Commission,Public Sector & Development,Standard,NGO / development partner,Nairobi,U006,2026-03-12
+A0200,Tembo Sacco Limited,Financial Services,Standard,Private company,Nairobi,U015,2023-09-02
+A0201,Rift Retail Limited,Consumer & Retail,Standard,Multinational subsidiary,Nairobi,U027,2021-12-25
+A0202,Baobab Logistics Limited,Real Estate & Infrastructure,Standard,NGO / development partner,Nairobi,U017,2021-11-29
+A0203,Jambo Capital Limited,Financial Services,Standard,Multinational subsidiary,Nairobi,U024,2023-12-08
+A0204,Nile Geothermal Limited,Energy & Resources,Standard,Private company,Nairobi,U017,2022-07-18
+A0205,Equator Asset Managers Limited,Financial Services,Standard,Private company,Mombasa,U015,2021-04-22
+A0206,Simba Logistics Limited,Real Estate & Infrastructure,Standard,Listed company,Nairobi,U011,2020-11-01
+A0207,Mto Growers Limited,Agribusiness,Standard,Listed company,Nairobi,U010,2024-11-22
+A0208,Amani Agri Limited,Agribusiness,Standard,Private company,Nairobi,U019,2023-08-25
+A0209,Simba Foundation,Public Sector & Development,Standard,Listed company,Nairobi,U019,2020-11-30
+A0210,Mto Telecom Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U019,2025-12-27
+A0211,Kibo Capital Limited,Financial Services,Standard,Public sector,Kisumu,U021,2024-04-27
+A0212,Amani Tea Estates Limited,Agribusiness,Standard,Multinational subsidiary,Nairobi,U003,2024-11-19
+A0213,Harambee Digital Limited,"Technology, Media & Telecom",Standard,NGO / development partner,Nairobi,U006,2023-05-08
+A0214,Acacia Authority,Public Sector & Development,Standard,Multinational subsidiary,Mombasa,U015,2023-10-30
+A0215,Amani Hotels Limited,,Standard,Listed company,Nairobi,U023,2024-09-18
+A0216,Highland Foods Limited,Consumer & Retail,Standard,Listed company,Nairobi,U006,2021-08-06
+A0217,Jua Foundation,Public Sector & Development,Standard,Private company,Nairobi,U020,2023-12-11
+A0218,Kibo Agri Limited,Agribusiness,Standard,Private company,Mombasa,U026,2026-03-30
+A0219,Kilimanjaro Diagnostics Limited,Health,Standard,NGO / development partner,Mombasa,U008,2024-09-20
+A0220,Pwani Power Limited,Energy & Resources,Standard,Multinational subsidiary,Kisumu,U018,2020-12-22
+A0221,Rift Insurance Limited,Financial Services,Standard,Private company,Mombasa,U009,2024-12-02
+A0222,Pwani Development Fund,Public Sector & Development,Standard,Private company,Kisumu,U010,2022-06-29
+A0223,Safari Housing Limited,Real Estate & Infrastructure,Standard,NGO / development partner,Nairobi,U010,2024-06-17
+A0224,Simba Geothermal Limited,Energy & Resources,Standard,Private company,Nairobi,U009,2021-04-05
+A0225,Acacia Bank Limited,Financial Services,Standard,Private company,Kisumu,U022,2023-07-07
+A0226,Highland Hospital Limited,Health,Standard,Private company,Nairobi,U014,2024-08-01
+A0227,Amani Cloud Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Nairobi,U004,2026-01-26
+A0228,Mto Microfinance Limited,Financial Services,Standard,Public sector,Mombasa,U006,2022-06-06
+A0229,Pwani Authority,Public Sector & Development,Standard,Listed company,Nairobi,U009,2025-05-28
+A0230,Jambo Properties Limited,Real Estate & Infrastructure,Standard,Private company,Nairobi,U014,2021-10-02
+A0231,Highland Foundation,Public Sector & Development,Standard,NGO / development partner,Nairobi,U021,2020-12-26
+A0232,Kibo Foods Limited,Consumer & Retail,Standard,Listed company,Mombasa,U019,2022-09-13
+A0233,Highland Retail Limited,Consumer & Retail,Standard,Public sector,Nairobi,U017,2022-10-20
+A0234,Zuri Logistics Limited,Real Estate & Infrastructure,Standard,Listed company,Nairobi,U004,2021-11-01
+A0235,Simba Telecom Limited,"Technology, Media & Telecom",Standard,Public sector,Nairobi,U021,2021-09-27
+A0236,Amani Foundation,Public Sector & Development,Standard,Listed company,Nairobi,U021,2023-03-14
+A0237,Acacia Insurance Limited,Financial Services,Standard,Public sector,Nairobi,U010,2023-02-14
+A0238,Safari Foundation,Public Sector & Development,Standard,Multinational subsidiary,Nairobi,U001,2024-11-12
+A0239,Zuri Housing Limited,Real Estate & Infrastructure,Standard,Multinational subsidiary,Nakuru,U025,2024-11-03
+A0240,Zuri Digital Limited,"Technology, Media & Telecom",Standard,Private company,Nakuru,U017,2023-01-21
+A0241,Pwani Microfinance Limited,Financial Services,Standard,Multinational subsidiary,Nairobi,U022,2022-07-30
+A0242,Zuri Mining Limited,Energy & Resources,Standard,Private company,Nairobi,U016,2025-08-07
+A0243,Kibo Supermarkets Limited,Consumer & Retail,Standard,Private company,Nairobi,U013,2021-08-21
+A0244,Acacia Cloud Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Nakuru,U005,2025-01-24
+A0245,Mara Retail Limited,Consumer & Retail,Standard,Public sector,Mombasa,U025,2024-08-11
+A0246,Tembo Microfinance Limited,Financial Services,Standard,Public sector,Nairobi,U025,2022-09-30
+A0247,Savanna Asset Managers Limited,Financial Services,Standard,Public sector,Nairobi,U024,2021-04-11
+A0248,Nile Retail Limited,Consumer & Retail,Standard,Private company,Nairobi,U012,2025-08-05
+A0249,Nyota Petroleum Limited,Energy & Resources,Standard,Private company,Nairobi,U012,2022-05-15
+A0250,Umoja Digital Limited,"Technology, Media & Telecom",Standard,Public sector,Nairobi,U028,2024-05-07
+A0251,Harambee Microfinance Limited,Financial Services,Standard,Private company,Kisumu,U027,2022-12-21
+A0252,Savanna Digital Limited,"Technology, Media & Telecom",Standard,Listed company,Nairobi,U002,2020-11-06
+A0253,Umoja Cloud Limited,"Technology, Media & Telecom",Standard,Listed company,Nairobi,U002,2024-11-09
+A0254,Tembo Diagnostics Limited,Health,Standard,Private company,Nakuru,U011,2024-08-09
+A0255,Savanna Capital Limited,,Standard,NGO / development partner,Eldoret,U010,2024-09-27
+A0256,Umoja Development Fund,Public Sector & Development,Standard,Multinational subsidiary,Mombasa,U011,2022-09-26
+A0257,Nile Digital Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Nairobi,U011,2022-05-17
+A0258,Kilimanjaro Pharma Limited,Health,Standard,Listed company,Nairobi,U008,2023-08-13
+A0259,Rift Sacco Limited,Financial Services,Standard,Private company,Nairobi,U016,2023-10-11
+A0260,Kilimanjaro Horticulture Limited,Agribusiness,Standard,Public sector,Nakuru,U021,2021-02-17
+A0261,Safari Development Fund,Public Sector & Development,Standard,NGO / development partner,Eldoret,U025,2024-09-06
+A0262,Umoja Tea Estates Limited,Agribusiness,Standard,Private company,Nairobi,U006,2023-04-09
+A0263,Zuri Supermarkets Limited,Consumer & Retail,Standard,Private company,Nairobi,U022,2024-11-30
+A0264,Zuri Telecom Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Nairobi,U007,2026-06-15
+A0265,Amani Pharma Limited,Health,Standard,NGO / development partner,Kisumu,U006,2021-01-05
+A0266,Simba Growers Limited,Agribusiness,Standard,Multinational subsidiary,Nairobi,U022,2024-09-23
+A0267,Jambo Foundation,Public Sector & Development,Standard,Multinational subsidiary,Nairobi,U025,2023-07-11
+A0268,Zuri Capital Limited,Financial Services,Standard,Listed company,Nairobi,U028,2024-04-01
+A0269,Mara Power Limited,Energy & Resources,Standard,Private company,Nakuru,U001,2023-07-06
+A0270,Jua Retail Limited,Consumer & Retail,Standard,Public sector,Nairobi,U017,2022-06-09
+A0271,Highland Dairy Limited,Agribusiness,Standard,Private company,Nairobi,U028,2026-06-09
+A0272,Zuri Hospital Limited,Health,Standard,Public sector,Nairobi,U001,2025-12-26
+A0273,Equator Digital Limited,"Technology, Media & Telecom",Standard,NGO / development partner,Nairobi,U012,2021-01-04
+A0274,Amani Development Fund,Public Sector & Development,Standard,Multinational subsidiary,Mombasa,U026,2024-04-18
+A0275,Nile Supermarkets Limited,Consumer & Retail,Standard,Private company,Nairobi,U012,2026-04-01
+A0276,Nyota Capital Limited,Financial Services,Standard,NGO / development partner,Nairobi,U022,2021-03-14
+A0277,Mara Horticulture Limited,,Standard,Multinational subsidiary,Nairobi,U023,2023-10-09
+A0278,Equator Cloud Limited,"Technology, Media & Telecom",Standard,Multinational subsidiary,Nairobi,U026,2022-07-28
+A0279,Mara Bank Limited,Financial Services,Standard,NGO / development partner,Mombasa,U027,2023-04-17
+A0280,Simba Diagnostics Limited,Health,Standard,Multinational subsidiary,Nairobi,U025,2022-06-29
+A0281,Kilimanjaro Power Limited,Energy & Resources,Standard,Listed company,Nairobi,U026,2024-12-25
+A0282,Rift Foods Limited,Consumer & Retail,Standard,Multinational subsidiary,Nairobi,U014,2023-02-14
+A0283,Acacia Energy Limited,,Standard,Public sector,Nairobi,U016,2024-08-23
+A0284,Savanna Media Limited,"Technology, Media & Telecom",Standard,Listed company,Nairobi,U027,2023-03-15
+A0285,Simba Pharma Limited,Health,Standard,Listed company,Nairobi,U004,2025-01-21
+A0286,Jambo Asset Managers Limited,Financial Services,Standard,Public sector,Nairobi,U028,2023-07-22
+A0287,Equator Retail Limited,Consumer & Retail,Standard,Listed company,Nairobi,U026,2021-08-30
+A0288,Lakeview Energy Limited,Energy & Resources,Standard,Listed company,Nairobi,U028,2022-06-09
+A0289,Rift Bank Limited,Financial Services,Standard,Private company,Nakuru,U015,2024-11-05
+A0290,Mto Networks Limited,"Technology, Media & Telecom",Standard,Private company,Mombasa,U018,2021-03-15
+A0291,Simba Sacco Limited,Financial Services,Standard,NGO / development partner,Eldoret,U012,2022-09-07
+A0292,Zuri Petroleum Limited,Energy & Resources,Standard,NGO / development partner,Eldoret,U013,2022-02-07
+A0293,Highland Networks Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U024,2024-11-16
+A0294,Safari Insurance Limited,Financial Services,Standard,Private company,Nairobi,U022,2026-04-17
+A0295,Twiga Sacco Limited,Financial Services,Standard,Private company,Eldoret,U003,2024-01-18
+A0296,Harambee Horticulture Limited,Agribusiness,Standard,Private company,Nairobi,U009,2024-12-26
+A0297,Equator Agri Limited,Agribusiness,Standard,Private company,Nairobi,U004,2021-12-03
+A0298,Kilimanjaro Sacco Limited,Financial Services,Standard,Private company,Nairobi,U011,2024-06-01
+A0299,Baobab Sacco Limited,Financial Services,Standard,NGO / development partner,Nairobi,U008,2024-05-12
+A0300,Harambee Asset Managers Limited,Financial Services,Standard,Multinational subsidiary,Nairobi,U019,2020-10-17
+A0301,Zuri Authority,Public Sector & Development,Standard,NGO / development partner,Nairobi,U011,2022-05-11
+A0302,Highland Infrastructure Limited,Real Estate & Infrastructure,Standard,Listed company,Nairobi,U023,2024-12-30
+A0303,Harambee Foods Limited,Consumer & Retail,Standard,Private company,Nairobi,U014,2021-06-14
+A0304,Amani Mining Limited,Energy & Resources,Standard,NGO / development partner,Eldoret,U028,2022-11-17
+A0305,Kilimanjaro Telecom Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U024,2024-05-08
+A0306,Mto Cloud Limited,"Technology, Media & Telecom",Standard,Private company,Nairobi,U008,2020-11-17
+A0307,Harambee Energy Limited,Energy & Resources,Standard,NGO / development partner,Eldoret,U001,2024-08-31
+A0308,Pwani Construction Limited,Real Estate & Infrastructure,Standard,Private company,Nairobi,U022,2021-11-24
+A0309,Savanna Power Limited,Energy & Resources,Standard,Multinational subsidiary,Nairobi,U004,2021-01-12
+A0310,Mara Beverages Limited,Consumer & Retail,Standard,Multinational subsidiary,Nairobi,U015,2025-02-09
+A0311,Simba Asset Managers Limited,Financial Services,Standard,Public sector,Eldoret,U001,2025-06-07
+A0312,Tembo Tea Estates Limited,Agribusiness,Standard,Private company,Nairobi,U018,2025-06-28
+A0313,Mto Logistics Limited,Real Estate & Infrastructure,Standard,Multinational subsidiary,Nairobi,U028,2022-06-05
+A0314,Nyota Foundation,Public Sector & Development,Standard,Private company,Nairobi,U011,2025-11-24
+A0315,Lakeview Supermarkets Limited,Consumer & Retail,Standard,Listed company,Mombasa,U022,2021-05-05
+A0316,Harambee Sacco Limited,Financial Services,Standard,Listed company,Nairobi,U023,2022-11-06
+A0317,Nyota Sacco Limited,Financial Services,Standard,Multinational subsidiary,Nairobi,U002,2023-11-22
+A0318,Mara Hospital Limited,Health,Standard,Private company,Nairobi,U025,2024-06-25
+A0319,Jua County Government,Public Sector & Development,Standard,Public sector,Nairobi,U014,2020-12-09
+A0320,Zuri Tea Estates Limited,Agribusiness,Standard,Private company,Mombasa,U004,2021-09-07
+A0321,Acacia Microfinance Ltd,,Standard,Private company,Nairobi,U003,2021-04-30
+A0322,Jua County Govt,Public Sector & Development,Standard,Public sector,Nairobi,U014,2020-12-09
+A0323,Baobab Sacco Ltd,Financial Services,Standard,NGO / development partner,Nairobi,U008,2024-05-12
+A0324,Lakeview Energy Ltd,Energy & Resources,Standard,Listed company,Nairobi,U028,2022-06-09
+A0325,Mara Networks Ltd,"Technology, Media & Telecom",Standard,Private company,Nairobi,U028,2022-07-04
+A0326,Savanna Power Ltd,Energy & Resources,Standard,Multinational subsidiary,Nairobi,U004,2021-01-12
+A0327,Baobab Health Group Ltd,,Standard,Listed company,Nakuru,U004,2024-12-06
+A0328,Acacia Pharma Ltd,Health,Standard,Private company,Nairobi,U002,2020-12-27
+A0329,Mara Hospital Ltd,Health,Standard,Private company,Nairobi,U025,2024-06-25
+A0330,Acacia Hospital Ltd,,Standard,Private company,Mombasa,U003,2023-02-18
+A0331,Lakeview Supermarkets Ltd,Consumer & Retail,Standard,Listed company,Mombasa,U022,2021-05-05
+A0332,Acacia Media Ltd,"Technology, Media & Telecom",Standard,Public sector,Nairobi,U009,2022-01-08

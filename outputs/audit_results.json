@@ -1,0 +1,636 @@
+{
+ "asof": "2026-10-19",
+ "stale_days": 60,
+ "n_opps": 950,
+ "n_open": 373,
+ "n_accounts": 332,
+ "dq": [
+  {
+   "rule": "f_missing_amount",
+   "label": "Amount missing or zero",
+   "scope": "all opportunities",
+   "failing": 66,
+   "population": 950,
+   "rate": 0.06947368421052631
+  },
+  {
+   "rule": "f_no_owner",
+   "label": "No owner assigned",
+   "scope": "all opportunities",
+   "failing": 27,
+   "population": 950,
+   "rate": 0.028421052631578948
+  },
+  {
+   "rule": "f_inactive_owner",
+   "label": "Owner has left or is inactive",
+   "scope": "open",
+   "failing": 40,
+   "population": 373,
+   "rate": 0.10723860589812333
+  },
+  {
+   "rule": "f_past_close",
+   "label": "Open with close date in the past",
+   "scope": "open",
+   "failing": 56,
+   "population": 373,
+   "rate": 0.15013404825737264
+  },
+  {
+   "rule": "f_stale",
+   "label": "No activity for more than 60 days",
+   "scope": "open",
+   "failing": 82,
+   "population": 373,
+   "rate": 0.21983914209115282
+  },
+  {
+   "rule": "f_prob_mismatch",
+   "label": "Probability does not match stage",
+   "scope": "open",
+   "failing": 22,
+   "population": 373,
+   "rate": 0.058981233243967826
+  },
+  {
+   "rule": "f_no_next_step",
+   "label": "No next step recorded",
+   "scope": "open",
+   "failing": 29,
+   "population": 373,
+   "rate": 0.0777479892761394
+  },
+  {
+   "rule": "f_lost_no_reason",
+   "label": "Lost without a reason",
+   "scope": "closed lost",
+   "failing": 64,
+   "population": 361,
+   "rate": 0.1772853185595568
+  }
+ ],
+ "acc_dq": [
+  {
+   "rule": "missing_industry",
+   "label": "Account missing industry",
+   "failing": 17,
+   "population": 332
+  },
+  {
+   "rule": "is_duplicate",
+   "label": "Account is part of a duplicate pair",
+   "failing": 24,
+   "population": 332
+  }
+ ],
+ "open_clean_rate": 0.450402144772118,
+ "open": {
+  "open_n": 373,
+  "open_kes_m": 6815.802,
+  "weighted_kes_m": 2718.3831
+ },
+ "fy27": {
+  "pipeline_weighted_kes_m": 2698.6712,
+  "won_ytd_kes_m": 1900.725,
+  "target_kes_m": 6000.0
+ },
+ "win_rate_12m": 0.37435008665511266,
+ "by_los": [
+  {
+   "los": "Assurance",
+   "open_n": 84,
+   "open_kes_m": 1065.947,
+   "weighted_kes_m": 351.31025,
+   "fy27_pipeline_weighted_kes_m": 347.75445,
+   "target_kes_m": 1100.0,
+   "won_ytd_kes_m": 124.263,
+   "remaining_kes_m": 975.737,
+   "coverage_x": 0.3564018275416429,
+   "closed_12m": 122,
+   "win_rate": 0.32786885245901637,
+   "avg_cycle_days_won": 165.275,
+   "dq_clean_rate": 0.47619047619047616
+  },
+  {
+   "los": "Tax & Legal",
+   "open_n": 101,
+   "open_kes_m": 942.23,
+   "weighted_kes_m": 318.80875,
+   "fy27_pipeline_weighted_kes_m": 309.4824,
+   "target_kes_m": 1500.0,
+   "won_ytd_kes_m": 286.747,
+   "remaining_kes_m": 1213.253,
+   "coverage_x": 0.25508480094423835,
+   "closed_12m": 167,
+   "win_rate": 0.3652694610778443,
+   "avg_cycle_days_won": 164.44262295081967,
+   "dq_clean_rate": 0.48514851485148514
+  },
+  {
+   "los": "Deals",
+   "open_n": 63,
+   "open_kes_m": 1979.643,
+   "weighted_kes_m": 924.6952,
+   "fy27_pipeline_weighted_kes_m": 924.6952,
+   "target_kes_m": 900.0,
+   "won_ytd_kes_m": 726.163,
+   "remaining_kes_m": 173.837,
+   "coverage_x": 5.319323274101602,
+   "closed_12m": 81,
+   "win_rate": 0.4691358024691358,
+   "avg_cycle_days_won": 145.0,
+   "dq_clean_rate": 0.3492063492063492
+  },
+  {
+   "los": "Consulting",
+   "open_n": 95,
+   "open_kes_m": 2486.486,
+   "weighted_kes_m": 1025.7814,
+   "fy27_pipeline_weighted_kes_m": 1018.95165,
+   "target_kes_m": 1900.0,
+   "won_ytd_kes_m": 576.565,
+   "remaining_kes_m": 1323.435,
+   "coverage_x": 0.7699295016377835,
+   "closed_12m": 152,
+   "win_rate": 0.34868421052631576,
+   "avg_cycle_days_won": 159.66037735849056,
+   "dq_clean_rate": 0.43157894736842106
+  },
+  {
+   "los": "Risk",
+   "open_n": 30,
+   "open_kes_m": 341.496,
+   "weighted_kes_m": 97.7875,
+   "fy27_pipeline_weighted_kes_m": 97.7875,
+   "target_kes_m": 600.0,
+   "won_ytd_kes_m": 186.987,
+   "remaining_kes_m": 413.01300000000003,
+   "coverage_x": 0.23676615506049442,
+   "closed_12m": 55,
+   "win_rate": 0.43636363636363634,
+   "avg_cycle_days_won": 147.5,
+   "dq_clean_rate": 0.5333333333333333
+  }
+ ],
+ "by_industry": [
+  {
+   "industry": "Agribusiness",
+   "open_n": 38,
+   "open_kes_m": 671.024,
+   "weighted_kes_m": 318.40885,
+   "closed_12m": 50,
+   "win_rate": 0.32
+  },
+  {
+   "industry": "Consumer & Retail",
+   "open_n": 45,
+   "open_kes_m": 741.69,
+   "weighted_kes_m": 265.83615,
+   "closed_12m": 63,
+   "win_rate": 0.2857142857142857
+  },
+  {
+   "industry": "Energy & Resources",
+   "open_n": 44,
+   "open_kes_m": 936.058,
+   "weighted_kes_m": 394.9023,
+   "closed_12m": 56,
+   "win_rate": 0.5535714285714286
+  },
+  {
+   "industry": "Financial Services",
+   "open_n": 99,
+   "open_kes_m": 1758.697,
+   "weighted_kes_m": 603.7617,
+   "closed_12m": 157,
+   "win_rate": 0.37579617834394907
+  },
+  {
+   "industry": "Health",
+   "open_n": 13,
+   "open_kes_m": 160.42,
+   "weighted_kes_m": 64.63045,
+   "closed_12m": 28,
+   "win_rate": 0.5714285714285714
+  },
+  {
+   "industry": "Public Sector & Development",
+   "open_n": 47,
+   "open_kes_m": 587.049,
+   "weighted_kes_m": 220.68835,
+   "closed_12m": 73,
+   "win_rate": 0.3835616438356164
+  },
+  {
+   "industry": "Real Estate & Infrastructure",
+   "open_n": 19,
+   "open_kes_m": 536.621,
+   "weighted_kes_m": 311.1257,
+   "closed_12m": 21,
+   "win_rate": 0.2857142857142857
+  },
+  {
+   "industry": "Technology, Media & Telecom",
+   "open_n": 56,
+   "open_kes_m": 1187.057,
+   "weighted_kes_m": 443.7796,
+   "closed_12m": 100,
+   "win_rate": 0.37
+  },
+  {
+   "industry": "Unassigned",
+   "open_n": 12,
+   "open_kes_m": 237.186,
+   "weighted_kes_m": 95.25,
+   "closed_12m": 29,
+   "win_rate": 0.1724137931034483
+  }
+ ],
+ "priority": {
+  "n": 40,
+  "with_open_opp": 38,
+  "touched_90d": 37,
+  "no_open_no_touch": 0
+ },
+ "by_source": [
+  {
+   "source": "Cold outreach",
+   "open_n": 62,
+   "open_kes_m": 894.509,
+   "win_rate": 0.3917525773195876,
+   "closed_12m": 97
+  },
+  {
+   "source": "Digital",
+   "open_n": 36,
+   "open_kes_m": 690.946,
+   "win_rate": 0.32786885245901637,
+   "closed_12m": 61
+  },
+  {
+   "source": "Event",
+   "open_n": 53,
+   "open_kes_m": 914.874,
+   "win_rate": 0.30985915492957744,
+   "closed_12m": 71
+  },
+  {
+   "source": "Existing client",
+   "open_n": 101,
+   "open_kes_m": 1764.333,
+   "win_rate": 0.3764705882352941,
+   "closed_12m": 170
+  },
+  {
+   "source": "Referral",
+   "open_n": 70,
+   "open_kes_m": 1043.977,
+   "win_rate": 0.37623762376237624,
+   "closed_12m": 101
+  },
+  {
+   "source": "Thought leadership",
+   "open_n": 51,
+   "open_kes_m": 1507.163,
+   "win_rate": 0.44155844155844154,
+   "closed_12m": 77
+  }
+ ],
+ "by_stage": [
+  {
+   "stage": "Prospecting",
+   "n": 83,
+   "kes_m": 1528.556
+  },
+  {
+   "stage": "Qualification",
+   "n": 121,
+   "kes_m": 1967.477
+  },
+  {
+   "stage": "Proposal",
+   "n": 97,
+   "kes_m": 1664.674
+  },
+  {
+   "stage": "Negotiation",
+   "n": 72,
+   "kes_m": 1655.095
+  }
+ ],
+ "top10": [
+  {
+   "opp_id": "O00526",
+   "opp_name": "Pwani Construction | Deals | annual",
+   "line_of_service": "Deals",
+   "stage": "Negotiation",
+   "amount_kes": 152041000.0,
+   "weighted_kes": 114030750.0,
+   "owner_name": "Winnie Chebet",
+   "close_date": "2027-01-12"
+  },
+  {
+   "opp_id": "O00647",
+   "opp_name": "Acacia Infrastructure | Consulting | transformation",
+   "line_of_service": "Consulting",
+   "stage": "Negotiation",
+   "amount_kes": 150377000.0,
+   "weighted_kes": 112782750.0,
+   "owner_name": "Omar Juma",
+   "close_date": "2027-06-17"
+  },
+  {
+   "opp_id": "O00063",
+   "opp_name": "Jambo Tea Estates | Consulting | due diligence",
+   "line_of_service": "Consulting",
+   "stage": "Negotiation",
+   "amount_kes": 137156000.0,
+   "weighted_kes": 102867000.0,
+   "owner_name": "Daniel Wanjiru",
+   "close_date": "2027-06-09"
+  },
+  {
+   "opp_id": "O00770",
+   "opp_name": "Acacia Mining | Deals | readiness",
+   "line_of_service": "Deals",
+   "stage": "Proposal",
+   "amount_kes": 190736000.0,
+   "weighted_kes": 95368000.0,
+   "owner_name": "Lucy Kariuki",
+   "close_date": "2026-11-03"
+  },
+  {
+   "opp_id": "O00244",
+   "opp_name": "Pwani Media | Deals | readiness",
+   "line_of_service": "Deals",
+   "stage": "Negotiation",
+   "amount_kes": 114858000.0,
+   "weighted_kes": 86143500.0,
+   "owner_name": "James Kamau",
+   "close_date": "2027-06-01"
+  },
+  {
+   "opp_id": "O00731",
+   "opp_name": "Lakeview Mining | Deals | advisory",
+   "line_of_service": "Deals",
+   "stage": "Negotiation",
+   "amount_kes": 90885000.0,
+   "weighted_kes": 68163750.0,
+   "owner_name": "Omar Juma",
+   "close_date": "2027-06-24"
+  },
+  {
+   "opp_id": "O00798",
+   "opp_name": "Umoja Asset Managers | Consulting | annual",
+   "line_of_service": "Consulting",
+   "stage": "Proposal",
+   "amount_kes": 118714000.0,
+   "weighted_kes": 59357000.0,
+   "owner_name": "Cynthia Odhiambo",
+   "close_date": "2027-02-28"
+  },
+  {
+   "opp_id": "O00547",
+   "opp_name": "Jambo Microfinance | Consulting | advisory",
+   "line_of_service": "Consulting",
+   "stage": "Negotiation",
+   "amount_kes": 74097000.0,
+   "weighted_kes": 55572750.0,
+   "owner_name": "Lucy Kariuki",
+   "close_date": "2027-03-30"
+  },
+  {
+   "opp_id": "O00006",
+   "opp_name": "Baobab Capital | Deals | annual",
+   "line_of_service": "Deals",
+   "stage": "Qualification",
+   "amount_kes": 198924000.0,
+   "weighted_kes": 49731000.0,
+   "owner_name": "Nancy Wafula",
+   "close_date": "2027-05-26"
+  },
+  {
+   "opp_id": "O00319",
+   "opp_name": "Twiga Horticulture | Deals | due diligence",
+   "line_of_service": "Deals",
+   "stage": "Proposal",
+   "amount_kes": 78179000.0,
+   "weighted_kes": 39089500.0,
+   "owner_name": "Esther Kiprop",
+   "close_date": "2027-06-27"
+  }
+ ],
+ "feedback": {
+  "n": 180,
+  "avg": 3.638888888888889,
+  "nps_like": 43.333333333333336,
+  "by_los": [
+   {
+    "line_of_service": "Assurance",
+    "mean": 3.4047619047619047,
+    "count": 42
+   },
+   {
+    "line_of_service": "Consulting",
+    "mean": 3.8076923076923075,
+    "count": 52
+   },
+   {
+    "line_of_service": "Deals",
+    "mean": 3.740740740740741,
+    "count": 27
+   },
+   {
+    "line_of_service": "Risk",
+    "mean": 3.4705882352941178,
+    "count": 17
+   },
+   {
+    "line_of_service": "Tax & Legal",
+    "mean": 3.6666666666666665,
+    "count": 42
+   }
+  ],
+  "by_theme": [
+   {
+    "theme": "communication",
+    "Negative": 12,
+    "Neutral": 11,
+    "Positive": 23
+   },
+   {
+    "theme": "digital",
+    "Negative": 7,
+    "Neutral": 6,
+    "Positive": 25
+   },
+   {
+    "theme": "insight",
+    "Negative": 5,
+    "Neutral": 10,
+    "Positive": 22
+   },
+   {
+    "theme": "responsiveness",
+    "Negative": 4,
+    "Neutral": 3,
+    "Positive": 18
+   },
+   {
+    "theme": "value",
+    "Negative": 6,
+    "Neutral": 4,
+    "Positive": 24
+   }
+  ],
+  "open_followups": 50
+ },
+ "events": [
+  {
+   "event_id": "E01",
+   "event_name": "Banking & Fintech Roundtable",
+   "industry": "Financial Services",
+   "date": "2026-07-23",
+   "invited": 120,
+   "registered": 64,
+   "attended": 47,
+   "opps_created": 6,
+   "attend_rate": 0.734375,
+   "opps_per_10_attendees": 1.276595744680851
+  },
+  {
+   "event_id": "E02",
+   "event_name": "Budget Breakfast: Tax Changes Briefing",
+   "industry": "All industries",
+   "date": "2026-08-06",
+   "invited": 260,
+   "registered": 148,
+   "attended": 109,
+   "opps_created": 11,
+   "attend_rate": 0.7364864864864865,
+   "opps_per_10_attendees": 1.0091743119266057
+  },
+  {
+   "event_id": "E03",
+   "event_name": "Energy Transition Forum",
+   "industry": "Energy & Resources",
+   "date": "2026-09-10",
+   "invited": 90,
+   "registered": 51,
+   "attended": 38,
+   "opps_created": 4,
+   "attend_rate": 0.7450980392156863,
+   "opps_per_10_attendees": 1.0526315789473684
+  },
+  {
+   "event_id": "E04",
+   "event_name": "Public Sector Finance Clinic",
+   "industry": "Public Sector & Development",
+   "date": "2026-09-24",
+   "invited": 80,
+   "registered": 42,
+   "attended": 33,
+   "opps_created": 3,
+   "attend_rate": 0.7857142857142857,
+   "opps_per_10_attendees": 0.9090909090909092
+  },
+  {
+   "event_id": "E05",
+   "event_name": "Health Leaders Dinner",
+   "industry": "Health",
+   "date": "2026-10-08",
+   "invited": 40,
+   "registered": 27,
+   "attended": 22,
+   "opps_created": 3,
+   "attend_rate": 0.8148148148148148,
+   "opps_per_10_attendees": 1.3636363636363635
+  },
+  {
+   "event_id": "E06",
+   "event_name": "Annual Industry Conference (planned)",
+   "industry": "All industries",
+   "date": "2026-11-19",
+   "invited": 400,
+   "registered": 0,
+   "attended": 0,
+   "opps_created": 0,
+   "attend_rate": null,
+   "opps_per_10_attendees": null
+  }
+ ],
+ "followups_n": 386,
+ "owner_hygiene": [
+  {
+   "owner": "Lucy Kariuki",
+   "open_n": 24,
+   "flagged": 24,
+   "clean_rate": 0.0,
+   "issues": 32
+  },
+  {
+   "owner": "Zainab Wanjiru",
+   "open_n": 16,
+   "flagged": 16,
+   "clean_rate": 0.0,
+   "issues": 28
+  },
+  {
+   "owner": "Esther Kiprop",
+   "open_n": 21,
+   "flagged": 11,
+   "clean_rate": 0.47619047619047616,
+   "issues": 12
+  },
+  {
+   "owner": "Amina Otieno",
+   "open_n": 23,
+   "flagged": 10,
+   "clean_rate": 0.5652173913043478,
+   "issues": 13
+  },
+  {
+   "owner": "Daniel Wanjiru",
+   "open_n": 21,
+   "flagged": 10,
+   "clean_rate": 0.5238095238095238,
+   "issues": 11
+  },
+  {
+   "owner": "Grace Mwangi",
+   "open_n": 16,
+   "flagged": 10,
+   "clean_rate": 0.375,
+   "issues": 14
+  },
+  {
+   "owner": "(no owner)",
+   "open_n": 10,
+   "flagged": 10,
+   "clean_rate": 0.0,
+   "issues": 20
+  },
+  {
+   "owner": "Felix Barasa",
+   "open_n": 16,
+   "flagged": 9,
+   "clean_rate": 0.4375,
+   "issues": 13
+  },
+  {
+   "owner": "Cynthia Odhiambo",
+   "open_n": 22,
+   "flagged": 8,
+   "clean_rate": 0.6363636363636364,
+   "issues": 8
+  },
+  {
+   "owner": "Peter Kiprop",
+   "open_n": 10,
+   "flagged": 8,
+   "clean_rate": 0.2,
+   "issues": 12
+  }
+ ]
+}
